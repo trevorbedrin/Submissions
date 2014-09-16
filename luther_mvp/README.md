@@ -16,8 +16,4 @@ In this first figure, the results of the model (predicted log(Gross)) [in blue] 
 
 ![](./img/log.png)
 
-The second figure shows the results of the model [in blue], after converting the log value back into a decimal value, plotted against the actual Domestic Gross values [in red] for the testing set.
-
-![](./img/lin.png)
-
-In both figures, the yellow dashed represent the upper and lower bounds of a 95% confidence interval.
+The yellow dashed represent the upper and lower bounds of a 95% confidence interval.
