@@ -1,0 +1,2977 @@
+borough,station,boothremote,date,ridership
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-24 00:00:00,2760
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-25 00:00:00,2898
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-26 00:00:00,2674
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-27 00:00:00,6277
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-28 00:00:00,5909
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-29 00:00:00,6604
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-30 00:00:00,6156
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-05-31 00:00:00,3479
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-01 00:00:00,2877
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-02 00:00:00,6325
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-03 00:00:00,6316
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-04 00:00:00,6557
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-05 00:00:00,5407
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-06 00:00:00,6332
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-07 00:00:00,3680
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-08 00:00:00,2876
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-09 00:00:00,5869
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-10 00:00:00,6566
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-11 00:00:00,6485
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-12 00:00:00,6333
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-13 00:00:00,5596
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-14 00:00:00,64
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-15 00:00:00,111
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-16 00:00:00,6203
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-17 00:00:00,5911
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-18 00:00:00,5679
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-19 00:00:00,5785
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-20 00:00:00,5800
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-21 00:00:00,3192
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-22 00:00:00,2818
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-23 00:00:00,5456
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-24 00:00:00,5755
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-25 00:00:00,5434
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-26 00:00:00,5595
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-27 00:00:00,5028
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-28 00:00:00,2947
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-29 00:00:00,2438
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-06-30 00:00:00,5053
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-01 00:00:00,5190
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-02 00:00:00,5004
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-03 00:00:00,4671
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-04 00:00:00,2343
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-05 00:00:00,2658
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-06 00:00:00,2428
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-07 00:00:00,5236
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-08 00:00:00,5501
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-09 00:00:00,5472
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-10 00:00:00,5469
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-11 00:00:00,4703
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-12 00:00:00,3224
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-13 00:00:00,2368
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-14 00:00:00,5202
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-15 00:00:00,5370
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-16 00:00:00,5428
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-17 00:00:00,5122
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-18 00:00:00,4806
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-19 00:00:00,3100
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-20 00:00:00,2359
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-21 00:00:00,4957
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-22 00:00:00,5169
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-23 00:00:00,5246
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-24 00:00:00,5242
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-25 00:00:00,4768
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-26 00:00:00,3004
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-27 00:00:00,2246
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-28 00:00:00,4720
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-29 00:00:00,5242
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-30 00:00:00,5492
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-07-31 00:00:00,5113
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-01 00:00:00,4698
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-02 00:00:00,2894
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-03 00:00:00,2626
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-04 00:00:00,4913
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-05 00:00:00,5239
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-06 00:00:00,5161
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-07 00:00:00,4935
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-08 00:00:00,4624
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-09 00:00:00,3058
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-10 00:00:00,2474
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-11 00:00:00,4670
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-12 00:00:00,4634
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-13 00:00:00,4529
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-14 00:00:00,4585
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-15 00:00:00,4407
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-16 00:00:00,3388
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-17 00:00:00,2735
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-18 00:00:00,4377
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-19 00:00:00,4655
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-20 00:00:00,4675
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-21 00:00:00,4632
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-22 00:00:00,4378
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-23 00:00:00,2984
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-24 00:00:00,2485
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-25 00:00:00,4427
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-26 00:00:00,4807
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-27 00:00:00,4837
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-28 00:00:00,5819
+Bronx,Bedford Park Bl,('R291'-'R183'),2014-08-29 00:00:00,4618
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-24 00:00:00,2893
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-25 00:00:00,2597
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-26 00:00:00,2633
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-27 00:00:00,4778
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-28 00:00:00,4939
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-29 00:00:00,5079
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-30 00:00:00,5328
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-05-31 00:00:00,3235
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-01 00:00:00,2617
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-02 00:00:00,4954
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-03 00:00:00,4895
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-04 00:00:00,5114
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-05 00:00:00,4673
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-06 00:00:00,5029
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-07 00:00:00,3361
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-08 00:00:00,2519
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-09 00:00:00,4579
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-10 00:00:00,5037
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-11 00:00:00,5325
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-12 00:00:00,5184
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-13 00:00:00,5167
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-14 00:00:00,9999
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-15 00:00:00,6695
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-16 00:00:00,4865
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-17 00:00:00,4928
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-18 00:00:00,5121
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-19 00:00:00,4829
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-20 00:00:00,4953
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-21 00:00:00,3252
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-22 00:00:00,2544
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-23 00:00:00,4619
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-24 00:00:00,4849
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-25 00:00:00,4782
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-26 00:00:00,5083
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-27 00:00:00,4687
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-28 00:00:00,3341
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-29 00:00:00,2825
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-06-30 00:00:00,4447
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-01 00:00:00,4666
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-02 00:00:00,4675
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-03 00:00:00,4485
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-04 00:00:00,2445
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-05 00:00:00,2910
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-06 00:00:00,2599
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-07 00:00:00,4385
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-08 00:00:00,4546
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-09 00:00:00,4734
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-10 00:00:00,4625
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-11 00:00:00,4641
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-12 00:00:00,3278
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-13 00:00:00,2368
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-14 00:00:00,4367
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-15 00:00:00,4622
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-16 00:00:00,4573
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-17 00:00:00,5302
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-18 00:00:00,4491
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-19 00:00:00,2920
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-20 00:00:00,2413
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-21 00:00:00,4603
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-22 00:00:00,4742
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-23 00:00:00,4825
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-24 00:00:00,4721
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-25 00:00:00,4615
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-26 00:00:00,2955
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-27 00:00:00,2389
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-28 00:00:00,4263
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-29 00:00:00,4514
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-30 00:00:00,4585
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-07-31 00:00:00,4530
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-01 00:00:00,4325
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-02 00:00:00,2863
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-03 00:00:00,2368
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-04 00:00:00,4402
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-05 00:00:00,4564
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-06 00:00:00,4552
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-07 00:00:00,4532
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-08 00:00:00,4497
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-09 00:00:00,2868
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-10 00:00:00,2432
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-11 00:00:00,4202
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-12 00:00:00,4303
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-13 00:00:00,4412
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-14 00:00:00,4384
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-15 00:00:00,4346
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-16 00:00:00,2853
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-17 00:00:00,2324
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-18 00:00:00,4208
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-19 00:00:00,4461
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-20 00:00:00,4585
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-21 00:00:00,4398
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-22 00:00:00,4332
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-23 00:00:00,2760
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-24 00:00:00,2374
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-25 00:00:00,3976
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-26 00:00:00,4375
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-27 00:00:00,4484
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-28 00:00:00,4643
+Bronx,Bedford Park Bl,('N222'-'R156'),2014-08-29 00:00:00,4094
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-24 00:00:00,1173
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-25 00:00:00,962
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-26 00:00:00,1080
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-27 00:00:00,2197
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-28 00:00:00,2329
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-29 00:00:00,2340
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-30 00:00:00,2343
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-05-31 00:00:00,1354
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-01 00:00:00,1143
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-02 00:00:00,2309
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-03 00:00:00,2294
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-04 00:00:00,2388
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-05 00:00:00,2151
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-06 00:00:00,2290
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-07 00:00:00,1324
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-08 00:00:00,1059
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-09 00:00:00,2248
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-10 00:00:00,2374
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-11 00:00:00,2408
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-12 00:00:00,2376
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-13 00:00:00,2436
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-14 00:00:00,2088
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-15 00:00:00,1514
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-16 00:00:00,2220
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-17 00:00:00,2278
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-18 00:00:00,2268
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-19 00:00:00,2261
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-20 00:00:00,2227
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-21 00:00:00,1320
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-22 00:00:00,1050
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-23 00:00:00,2075
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-24 00:00:00,2145
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-25 00:00:00,2114
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-26 00:00:00,2334
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-27 00:00:00,2043
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-28 00:00:00,921
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-29 00:00:00,705
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-06-30 00:00:00,2040
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-01 00:00:00,2063
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-02 00:00:00,2083
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-03 00:00:00,1978
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-04 00:00:00,977
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-05 00:00:00,1068
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-06 00:00:00,909
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-07 00:00:00,1886
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-08 00:00:00,2070
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-09 00:00:00,2057
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-10 00:00:00,2096
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-11 00:00:00,2030
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-12 00:00:00,1256
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-13 00:00:00,931
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-14 00:00:00,1860
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-15 00:00:00,1869
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-16 00:00:00,2105
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-17 00:00:00,2223
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-18 00:00:00,1957
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-19 00:00:00,1224
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-20 00:00:00,939
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-21 00:00:00,1947
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-22 00:00:00,2080
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-23 00:00:00,2108
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-24 00:00:00,2069
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-25 00:00:00,2008
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-26 00:00:00,1240
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-27 00:00:00,986
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-28 00:00:00,1951
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-29 00:00:00,2038
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-30 00:00:00,2064
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-07-31 00:00:00,1986
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-01 00:00:00,1964
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-02 00:00:00,1140
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-03 00:00:00,898
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-04 00:00:00,1901
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-05 00:00:00,2034
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-06 00:00:00,2056
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-07 00:00:00,2117
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-08 00:00:00,1950
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-09 00:00:00,1197
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-10 00:00:00,909
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-11 00:00:00,1884
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-12 00:00:00,1927
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-13 00:00:00,1960
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-14 00:00:00,2027
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-15 00:00:00,1936
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-16 00:00:00,1185
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-17 00:00:00,899
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-18 00:00:00,1812
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-19 00:00:00,1940
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-20 00:00:00,1934
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-21 00:00:00,1928
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-22 00:00:00,1871
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-23 00:00:00,1101
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-24 00:00:00,880
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-25 00:00:00,1790
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-26 00:00:00,1941
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-27 00:00:00,1954
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-28 00:00:00,2067
+Bronx,Bedford Park Bl,('N223'-'R156'),2014-08-29 00:00:00,1844
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-24 00:00:00,1883
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-25 00:00:00,1679
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-26 00:00:00,2039
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-27 00:00:00,4622
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-28 00:00:00,4622
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-29 00:00:00,4723
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-30 00:00:00,4650
+Bronx,Baychester Ave,('R729'-'R292'),2014-05-31 00:00:00,2218
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-01 00:00:00,1529
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-02 00:00:00,4757
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-03 00:00:00,4420
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-04 00:00:00,4739
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-05 00:00:00,3946
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-06 00:00:00,4492
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-07 00:00:00,2498
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-08 00:00:00,1611
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-09 00:00:00,4235
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-10 00:00:00,4676
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-11 00:00:00,4699
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-12 00:00:00,4654
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-13 00:00:00,4442
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-14 00:00:00,32
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-15 00:00:00,7
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-16 00:00:00,4497
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-17 00:00:00,4517
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-18 00:00:00,4472
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-19 00:00:00,4183
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-20 00:00:00,4523
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-21 00:00:00,9
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-22 00:00:00,0
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-23 00:00:00,4051
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-24 00:00:00,3980
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-25 00:00:00,3871
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-26 00:00:00,4007
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-27 00:00:00,3778
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-28 00:00:00,11
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-29 00:00:00,0
+Bronx,Baychester Ave,('R729'-'R292'),2014-06-30 00:00:00,3574
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-01 00:00:00,3836
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-02 00:00:00,8348
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-05 00:00:00,1492
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-06 00:00:00,1165
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-07 00:00:00,3754
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-08 00:00:00,3913
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-09 00:00:00,3922
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-10 00:00:00,3031
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-11 00:00:00,3556
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-12 00:00:00,1493
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-13 00:00:00,1140
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-14 00:00:00,3767
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-15 00:00:00,3685
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-16 00:00:00,3889
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-17 00:00:00,3969
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-18 00:00:00,3658
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-19 00:00:00,1194
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-20 00:00:00,1256
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-21 00:00:00,3869
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-22 00:00:00,3894
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-23 00:00:00,3798
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-24 00:00:00,3872
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-25 00:00:00,3687
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-26 00:00:00,1715
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-27 00:00:00,1260
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-28 00:00:00,3713
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-29 00:00:00,3739
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-30 00:00:00,3865
+Bronx,Baychester Ave,('R729'-'R292'),2014-07-31 00:00:00,3759
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-01 00:00:00,3632
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-02 00:00:00,1364
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-03 00:00:00,1254
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-04 00:00:00,3765
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-05 00:00:00,3724
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-06 00:00:00,3754
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-07 00:00:00,3806
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-08 00:00:00,3716
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-09 00:00:00,1755
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-10 00:00:00,1337
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-11 00:00:00,3626
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-12 00:00:00,3439
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-13 00:00:00,3415
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-14 00:00:00,7027
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-16 00:00:00,27
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-17 00:00:00,6
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-18 00:00:00,3330
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-19 00:00:00,3500
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-20 00:00:00,3380
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-21 00:00:00,3387
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-22 00:00:00,3262
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-23 00:00:00,1753
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-24 00:00:00,1365
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-25 00:00:00,3450
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-26 00:00:00,3488
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-27 00:00:00,3372
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-28 00:00:00,3735
+Bronx,Baychester Ave,('R729'-'R292'),2014-08-29 00:00:00,2212
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-24 00:00:00,1280
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-25 00:00:00,1024
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-26 00:00:00,1197
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-27 00:00:00,7117
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-28 00:00:00,7146
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-29 00:00:00,6788
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-30 00:00:00,6632
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-05-31 00:00:00,12
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-01 00:00:00,0
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-02 00:00:00,6860
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-03 00:00:00,7175
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-04 00:00:00,7047
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-05 00:00:00,7107
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-06 00:00:00,6466
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-07 00:00:00,23
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-08 00:00:00,808
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-09 00:00:00,7143
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-10 00:00:00,7365
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-11 00:00:00,7182
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-12 00:00:00,7182
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-13 00:00:00,6480
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-14 00:00:00,1278
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-15 00:00:00,1031
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-16 00:00:00,7171
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-17 00:00:00,7120
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-18 00:00:00,7057
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-19 00:00:00,7039
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-20 00:00:00,6341
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-21 00:00:00,22
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-22 00:00:00,0
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-23 00:00:00,6779
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-24 00:00:00,6917
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-25 00:00:00,6856
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-26 00:00:00,6766
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-27 00:00:00,6204
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-28 00:00:00,16
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-29 00:00:00,909
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-06-30 00:00:00,6840
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-01 00:00:00,6840
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-02 00:00:00,6646
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-03 00:00:00,5896
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-04 00:00:00,675
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-05 00:00:00,1051
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-06 00:00:00,1006
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-07 00:00:00,6712
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-08 00:00:00,6858
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-09 00:00:00,6801
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-10 00:00:00,6831
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-11 00:00:00,6069
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-12 00:00:00,1282
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-13 00:00:00,1017
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-14 00:00:00,6906
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-15 00:00:00,6824
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-16 00:00:00,6967
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-17 00:00:00,6924
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-18 00:00:00,6008
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-19 00:00:00,21
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-20 00:00:00,0
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-21 00:00:00,6747
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-22 00:00:00,7068
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-23 00:00:00,6924
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-24 00:00:00,6839
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-25 00:00:00,6045
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-26 00:00:00,1382
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-27 00:00:00,1012
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-28 00:00:00,6985
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-29 00:00:00,7089
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-30 00:00:00,6461
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-07-31 00:00:00,6944
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-01 00:00:00,6177
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-02 00:00:00,1306
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-03 00:00:00,1055
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-04 00:00:00,6957
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-05 00:00:00,6991
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-06 00:00:00,6887
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-07 00:00:00,6876
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-08 00:00:00,6182
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-09 00:00:00,1334
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-10 00:00:00,1049
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-11 00:00:00,6880
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-12 00:00:00,7114
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-13 00:00:00,6465
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-14 00:00:00,6851
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-15 00:00:00,6091
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-16 00:00:00,1317
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-17 00:00:00,1033
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-18 00:00:00,6753
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-19 00:00:00,6779
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-20 00:00:00,6642
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-21 00:00:00,6573
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-22 00:00:00,5960
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-23 00:00:00,1404
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-24 00:00:00,1085
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-25 00:00:00,6734
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-26 00:00:00,6873
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-27 00:00:00,6595
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-28 00:00:00,6475
+Bronx,Hunters Pt Ave,('R507'-'R134'),2014-08-29 00:00:00,5535
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-24 00:00:00,1160
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-25 00:00:00,976
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-26 00:00:00,1112
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-27 00:00:00,3568
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-28 00:00:00,3633
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-29 00:00:00,3693
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-30 00:00:00,3476
+Bronx,Pelham Parkway,('R727'-'R430'),2014-05-31 00:00:00,1339
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-01 00:00:00,948
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-02 00:00:00,3705
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-03 00:00:00,3428
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-04 00:00:00,3603
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-05 00:00:00,3198
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-06 00:00:00,3591
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-07 00:00:00,1399
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-08 00:00:00,975
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-09 00:00:00,3406
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-10 00:00:00,3737
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-11 00:00:00,3716
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-12 00:00:00,3701
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-13 00:00:00,3437
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-14 00:00:00,7
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-15 00:00:00,0
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-16 00:00:00,3460
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-17 00:00:00,3482
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-18 00:00:00,3529
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-19 00:00:00,3434
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-20 00:00:00,3337
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-21 00:00:00,0
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-22 00:00:00,0
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-23 00:00:00,3040
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-24 00:00:00,3268
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-25 00:00:00,3192
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-26 00:00:00,3390
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-27 00:00:00,3061
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-28 00:00:00,4
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-29 00:00:00,0
+Bronx,Pelham Parkway,('R727'-'R430'),2014-06-30 00:00:00,2893
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-01 00:00:00,3066
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-02 00:00:00,2952
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-03 00:00:00,2927
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-04 00:00:00,931
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-05 00:00:00,690
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-06 00:00:00,557
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-07 00:00:00,3114
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-08 00:00:00,3265
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-09 00:00:00,3124
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-10 00:00:00,2387
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-11 00:00:00,2906
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-12 00:00:00,829
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-13 00:00:00,549
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-14 00:00:00,3074
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-15 00:00:00,3159
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-16 00:00:00,3147
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-17 00:00:00,3175
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-18 00:00:00,2941
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-19 00:00:00,904
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-20 00:00:00,601
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-21 00:00:00,3064
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-22 00:00:00,3202
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-23 00:00:00,3075
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-24 00:00:00,3131
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-25 00:00:00,2874
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-26 00:00:00,971
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-27 00:00:00,599
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-28 00:00:00,2911
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-29 00:00:00,3100
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-30 00:00:00,3115
+Bronx,Pelham Parkway,('R727'-'R430'),2014-07-31 00:00:00,3026
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-01 00:00:00,2806
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-02 00:00:00,866
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-03 00:00:00,648
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-04 00:00:00,3021
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-05 00:00:00,3071
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-06 00:00:00,3037
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-07 00:00:00,2977
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-08 00:00:00,2904
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-09 00:00:00,938
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-10 00:00:00,760
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-11 00:00:00,2863
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-12 00:00:00,2925
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-13 00:00:00,2869
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-14 00:00:00,2947
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-15 00:00:00,2755
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-16 00:00:00,8
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-17 00:00:00,0
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-18 00:00:00,2725
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-19 00:00:00,2928
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-20 00:00:00,2954
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-21 00:00:00,2815
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-22 00:00:00,2709
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-23 00:00:00,990
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-24 00:00:00,746
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-25 00:00:00,2852
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-26 00:00:00,2961
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-27 00:00:00,2998
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-28 00:00:00,2933
+Bronx,Pelham Parkway,('R727'-'R430'),2014-08-29 00:00:00,2670
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-24 00:00:00,4786
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-25 00:00:00,4208
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-26 00:00:00,4539
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-27 00:00:00,6883
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-28 00:00:00,7009
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-29 00:00:00,7013
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-30 00:00:00,7337
+Bronx,Pelham Parkway,('R328'-'R361'),2014-05-31 00:00:00,5110
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-01 00:00:00,3947
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-02 00:00:00,7067
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-03 00:00:00,7115
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-04 00:00:00,7350
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-05 00:00:00,6460
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-06 00:00:00,7553
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-07 00:00:00,5447
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-08 00:00:00,4071
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-09 00:00:00,6313
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-10 00:00:00,7057
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-11 00:00:00,7311
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-12 00:00:00,6972
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-13 00:00:00,6755
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-14 00:00:00,6275
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-15 00:00:00,4398
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-16 00:00:00,7120
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-17 00:00:00,7003
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-18 00:00:00,7228
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-19 00:00:00,6819
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-20 00:00:00,7152
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-21 00:00:00,4662
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-22 00:00:00,3508
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-23 00:00:00,6810
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-24 00:00:00,6866
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-25 00:00:00,7031
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-26 00:00:00,7011
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-27 00:00:00,6845
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-28 00:00:00,5732
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-29 00:00:00,4258
+Bronx,Pelham Parkway,('R328'-'R361'),2014-06-30 00:00:00,6500
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-01 00:00:00,6770
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-02 00:00:00,6904
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-03 00:00:00,6754
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-04 00:00:00,3704
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-05 00:00:00,3915
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-06 00:00:00,2856
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-07 00:00:00,6624
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-08 00:00:00,6492
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-09 00:00:00,7100
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-10 00:00:00,6943
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-11 00:00:00,6975
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-12 00:00:00,3955
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-13 00:00:00,2620
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-14 00:00:00,6123
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-15 00:00:00,5920
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-16 00:00:00,6855
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-17 00:00:00,6792
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-18 00:00:00,6902
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-19 00:00:00,4569
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-20 00:00:00,3439
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-21 00:00:00,6620
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-22 00:00:00,6564
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-23 00:00:00,7260
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-24 00:00:00,6496
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-25 00:00:00,6807
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-26 00:00:00,4756
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-27 00:00:00,3354
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-28 00:00:00,6232
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-29 00:00:00,6328
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-30 00:00:00,7176
+Bronx,Pelham Parkway,('R328'-'R361'),2014-07-31 00:00:00,6547
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-01 00:00:00,6852
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-02 00:00:00,4405
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-03 00:00:00,3504
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-04 00:00:00,6563
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-05 00:00:00,6484
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-06 00:00:00,7228
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-07 00:00:00,6595
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-08 00:00:00,6652
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-09 00:00:00,5135
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-10 00:00:00,3762
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-11 00:00:00,6154
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-12 00:00:00,5835
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-13 00:00:00,6232
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-14 00:00:00,6560
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-15 00:00:00,6579
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-16 00:00:00,5347
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-17 00:00:00,4070
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-18 00:00:00,6109
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-19 00:00:00,6268
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-20 00:00:00,7082
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-21 00:00:00,6019
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-22 00:00:00,6266
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-23 00:00:00,4790
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-24 00:00:00,3661
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-25 00:00:00,6052
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-26 00:00:00,6059
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-27 00:00:00,6587
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-28 00:00:00,6407
+Bronx,Pelham Parkway,('R328'-'R361'),2014-08-29 00:00:00,6093
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-24 00:00:00,1684
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-25 00:00:00,1439
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-26 00:00:00,1608
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-27 00:00:00,3082
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-28 00:00:00,3256
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-29 00:00:00,3218
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-30 00:00:00,3219
+Bronx,Pelham Parkway,('R327'-'R361'),2014-05-31 00:00:00,1794
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-01 00:00:00,1403
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-02 00:00:00,3308
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-03 00:00:00,3140
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-04 00:00:00,3327
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-05 00:00:00,2925
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-06 00:00:00,2995
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-07 00:00:00,1905
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-08 00:00:00,1507
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-09 00:00:00,3018
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-10 00:00:00,3354
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-11 00:00:00,3243
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-12 00:00:00,3198
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-13 00:00:00,3067
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-14 00:00:00,2325
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-15 00:00:00,1610
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-16 00:00:00,3133
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-17 00:00:00,3253
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-18 00:00:00,3193
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-19 00:00:00,3172
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-20 00:00:00,3161
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-21 00:00:00,1908
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-22 00:00:00,1407
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-23 00:00:00,2740
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-24 00:00:00,3066
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-25 00:00:00,2988
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-26 00:00:00,3263
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-27 00:00:00,2802
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-28 00:00:00,1974
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-29 00:00:00,1580
+Bronx,Pelham Parkway,('R327'-'R361'),2014-06-30 00:00:00,2696
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-01 00:00:00,2952
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-02 00:00:00,2920
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-03 00:00:00,2733
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-04 00:00:00,1414
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-05 00:00:00,1252
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-06 00:00:00,940
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-07 00:00:00,2790
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-08 00:00:00,2822
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-09 00:00:00,2948
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-10 00:00:00,3119
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-11 00:00:00,2748
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-12 00:00:00,1299
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-13 00:00:00,826
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-14 00:00:00,2735
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-15 00:00:00,2732
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-16 00:00:00,2924
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-17 00:00:00,2996
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-18 00:00:00,2907
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-19 00:00:00,1584
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-20 00:00:00,1206
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-21 00:00:00,2803
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-22 00:00:00,2974
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-23 00:00:00,2888
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-24 00:00:00,2920
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-25 00:00:00,2926
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-26 00:00:00,1606
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-27 00:00:00,1212
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-28 00:00:00,2800
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-29 00:00:00,2907
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-30 00:00:00,2808
+Bronx,Pelham Parkway,('R327'-'R361'),2014-07-31 00:00:00,2903
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-01 00:00:00,2848
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-02 00:00:00,1566
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-03 00:00:00,1168
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-04 00:00:00,2827
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-05 00:00:00,2854
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-06 00:00:00,2944
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-07 00:00:00,2862
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-08 00:00:00,2881
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-09 00:00:00,1621
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-10 00:00:00,1271
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-11 00:00:00,2584
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-12 00:00:00,2773
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-13 00:00:00,2757
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-14 00:00:00,2875
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-15 00:00:00,2717
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-16 00:00:00,1813
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-17 00:00:00,1369
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-18 00:00:00,2589
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-19 00:00:00,2693
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-20 00:00:00,2778
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-21 00:00:00,2718
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-22 00:00:00,2631
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-23 00:00:00,1639
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-24 00:00:00,1227
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-25 00:00:00,2588
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-26 00:00:00,2681
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-27 00:00:00,2709
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-28 00:00:00,2825
+Bronx,Pelham Parkway,('R327'-'R361'),2014-08-29 00:00:00,2568
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-24 00:00:00,3752
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-25 00:00:00,3624
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-26 00:00:00,3724
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-27 00:00:00,8327
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-28 00:00:00,8441
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-29 00:00:00,8700
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-30 00:00:00,8257
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-05-31 00:00:00,4807
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-01 00:00:00,4095
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-02 00:00:00,8356
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-03 00:00:00,8645
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-04 00:00:00,10085
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-05 00:00:00,8284
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-06 00:00:00,8417
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-07 00:00:00,5609
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-08 00:00:00,4382
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-09 00:00:00,7939
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-10 00:00:00,8816
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-11 00:00:00,8475
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-12 00:00:00,8451
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-13 00:00:00,7828
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-14 00:00:00,5358
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-15 00:00:00,4321
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-16 00:00:00,7964
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-17 00:00:00,8518
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-18 00:00:00,8510
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-19 00:00:00,8321
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-20 00:00:00,8129
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-21 00:00:00,5403
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-22 00:00:00,4313
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-23 00:00:00,7542
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-24 00:00:00,7874
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-25 00:00:00,7879
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-26 00:00:00,7971
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-27 00:00:00,7281
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-28 00:00:00,5287
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-29 00:00:00,3973
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-06-30 00:00:00,7212
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-01 00:00:00,7532
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-02 00:00:00,7508
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-03 00:00:00,6793
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-04 00:00:00,3419
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-05 00:00:00,4515
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-06 00:00:00,3370
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-07 00:00:00,7244
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-08 00:00:00,7508
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-09 00:00:00,7714
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-10 00:00:00,7835
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-11 00:00:00,7344
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-12 00:00:00,5158
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-13 00:00:00,3537
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-14 00:00:00,7168
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-15 00:00:00,7332
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-16 00:00:00,7570
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-17 00:00:00,7693
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-18 00:00:00,7285
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-19 00:00:00,4714
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-20 00:00:00,4043
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-21 00:00:00,7219
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-22 00:00:00,7795
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-23 00:00:00,7797
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-24 00:00:00,7675
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-25 00:00:00,7071
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-26 00:00:00,4818
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-27 00:00:00,3597
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-28 00:00:00,6973
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-29 00:00:00,7311
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-30 00:00:00,7446
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-07-31 00:00:00,7568
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-01 00:00:00,6957
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-02 00:00:00,4596
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-03 00:00:00,3723
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-04 00:00:00,6913
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-05 00:00:00,7533
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-06 00:00:00,7381
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-07 00:00:00,7420
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-08 00:00:00,6861
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-09 00:00:00,5347
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-10 00:00:00,3797
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-11 00:00:00,6822
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-12 00:00:00,6879
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-13 00:00:00,6954
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-14 00:00:00,7207
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-15 00:00:00,6668
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-16 00:00:00,4644
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-17 00:00:00,3535
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-18 00:00:00,6626
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-19 00:00:00,6857
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-20 00:00:00,6851
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-21 00:00:00,7028
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-22 00:00:00,6439
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-23 00:00:00,4291
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-24 00:00:00,3774
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-25 00:00:00,6601
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-26 00:00:00,6760
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-27 00:00:00,7031
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-28 00:00:00,7116
+Brooklyn,Grand Army Plaz,('R619'-'R059'),2014-08-29 00:00:00,5833
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-24 00:00:00,3249
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-25 00:00:00,3205
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-26 00:00:00,3093
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-27 00:00:00,7256
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-28 00:00:00,7550
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-29 00:00:00,7531
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-30 00:00:00,7316
+Brooklyn,Carroll St,('N535'-'R220'),2014-05-31 00:00:00,3050
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-01 00:00:00,1979
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-02 00:00:00,7207
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-03 00:00:00,7400
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-04 00:00:00,7490
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-05 00:00:00,6861
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-06 00:00:00,7239
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-07 00:00:00,3501
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-08 00:00:00,2854
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-09 00:00:00,6925
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-10 00:00:00,7438
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-11 00:00:00,7644
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-12 00:00:00,7615
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-13 00:00:00,7026
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-14 00:00:00,3965
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-15 00:00:00,3057
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-16 00:00:00,6936
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-17 00:00:00,7359
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-18 00:00:00,7378
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-19 00:00:00,7052
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-20 00:00:00,7137
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-21 00:00:00,4117
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-22 00:00:00,3273
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-23 00:00:00,6480
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-24 00:00:00,6854
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-25 00:00:00,6880
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-26 00:00:00,6802
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-27 00:00:00,6107
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-28 00:00:00,3852
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-29 00:00:00,3156
+Brooklyn,Carroll St,('N535'-'R220'),2014-06-30 00:00:00,5757
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-01 00:00:00,6059
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-02 00:00:00,6068
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-03 00:00:00,5621
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-04 00:00:00,3118
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-05 00:00:00,3126
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-06 00:00:00,2573
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-07 00:00:00,5532
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-08 00:00:00,6018
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-09 00:00:00,6201
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-10 00:00:00,6230
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-11 00:00:00,5998
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-12 00:00:00,3642
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-13 00:00:00,2887
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-14 00:00:00,5859
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-15 00:00:00,6007
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-16 00:00:00,6446
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-17 00:00:00,6324
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-18 00:00:00,6106
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-19 00:00:00,3529
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-20 00:00:00,2895
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-21 00:00:00,5851
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-22 00:00:00,6285
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-23 00:00:00,6422
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-24 00:00:00,6160
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-25 00:00:00,5925
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-26 00:00:00,3594
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-27 00:00:00,2815
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-28 00:00:00,5784
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-29 00:00:00,6198
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-30 00:00:00,6420
+Brooklyn,Carroll St,('N535'-'R220'),2014-07-31 00:00:00,6140
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-01 00:00:00,5890
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-02 00:00:00,3373
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-03 00:00:00,2613
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-04 00:00:00,5781
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-05 00:00:00,5996
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-06 00:00:00,6020
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-07 00:00:00,6051
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-08 00:00:00,5838
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-09 00:00:00,3657
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-10 00:00:00,2856
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-11 00:00:00,5475
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-12 00:00:00,5722
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-13 00:00:00,5896
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-14 00:00:00,5750
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-15 00:00:00,5534
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-16 00:00:00,3271
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-17 00:00:00,2739
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-18 00:00:00,5355
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-19 00:00:00,5636
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-20 00:00:00,5906
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-21 00:00:00,5826
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-22 00:00:00,5520
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-23 00:00:00,3342
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-24 00:00:00,2804
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-25 00:00:00,5358
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-26 00:00:00,5782
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-27 00:00:00,5946
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-28 00:00:00,5826
+Brooklyn,Carroll St,('N535'-'R220'),2014-08-29 00:00:00,4801
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-24 00:00:00,2392
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-25 00:00:00,2161
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-26 00:00:00,1824
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-27 00:00:00,4919
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-28 00:00:00,5191
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-29 00:00:00,5171
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-30 00:00:00,5126
+Brooklyn,Carroll St,('N534'-'R220'),2014-05-31 00:00:00,3040
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-01 00:00:00,2204
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-02 00:00:00,4850
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-03 00:00:00,4989
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-04 00:00:00,5268
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-05 00:00:00,5142
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-06 00:00:00,5182
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-07 00:00:00,358
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-08 00:00:00,1941
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-09 00:00:00,4852
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-10 00:00:00,5180
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-11 00:00:00,5282
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-12 00:00:00,5256
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-13 00:00:00,5053
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-14 00:00:00,2736
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-15 00:00:00,2081
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-16 00:00:00,4967
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-17 00:00:00,5000
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-18 00:00:00,5244
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-19 00:00:00,5235
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-20 00:00:00,4891
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-21 00:00:00,2783
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-22 00:00:00,2330
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-23 00:00:00,4720
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-24 00:00:00,4967
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-25 00:00:00,5156
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-26 00:00:00,5008
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-27 00:00:00,4635
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-28 00:00:00,2694
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-29 00:00:00,2295
+Brooklyn,Carroll St,('N534'-'R220'),2014-06-30 00:00:00,4312
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-01 00:00:00,4611
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-02 00:00:00,4520
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-03 00:00:00,4223
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-04 00:00:00,2100
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-05 00:00:00,1960
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-06 00:00:00,1702
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-07 00:00:00,4153
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-08 00:00:00,4662
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-09 00:00:00,4533
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-10 00:00:00,4750
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-11 00:00:00,4592
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-12 00:00:00,2538
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-13 00:00:00,2214
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-14 00:00:00,4631
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-15 00:00:00,4758
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-16 00:00:00,4835
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-17 00:00:00,4806
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-18 00:00:00,4544
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-19 00:00:00,2509
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-20 00:00:00,2108
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-21 00:00:00,4384
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-22 00:00:00,4701
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-23 00:00:00,4719
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-24 00:00:00,4852
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-25 00:00:00,4625
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-26 00:00:00,2519
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-27 00:00:00,1998
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-28 00:00:00,4407
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-29 00:00:00,4615
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-30 00:00:00,4603
+Brooklyn,Carroll St,('N534'-'R220'),2014-07-31 00:00:00,4718
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-01 00:00:00,4363
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-02 00:00:00,2571
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-03 00:00:00,1970
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-04 00:00:00,4292
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-05 00:00:00,4562
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-06 00:00:00,4504
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-07 00:00:00,4577
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-08 00:00:00,4272
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-09 00:00:00,2476
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-10 00:00:00,1904
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-11 00:00:00,4155
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-12 00:00:00,4361
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-13 00:00:00,4448
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-14 00:00:00,4413
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-15 00:00:00,4237
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-16 00:00:00,2477
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-17 00:00:00,1805
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-18 00:00:00,4159
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-19 00:00:00,4428
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-20 00:00:00,4453
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-21 00:00:00,4348
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-22 00:00:00,4144
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-23 00:00:00,2506
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-24 00:00:00,1966
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-25 00:00:00,3945
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-26 00:00:00,4185
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-27 00:00:00,4374
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-28 00:00:00,4209
+Brooklyn,Carroll St,('N534'-'R220'),2014-08-29 00:00:00,3482
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-24 00:00:00,3
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-25 00:00:00,0
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-26 00:00:00,1
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-27 00:00:00,5879
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-28 00:00:00,6020
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-29 00:00:00,6071
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-30 00:00:00,6327
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-05-31 00:00:00,1
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-01 00:00:00,0
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-02 00:00:00,5875
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-03 00:00:00,6045
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-04 00:00:00,6190
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-05 00:00:00,5482
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-06 00:00:00,6450
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-07 00:00:00,3347
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-08 00:00:00,2581
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-09 00:00:00,5754
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-10 00:00:00,6503
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-11 00:00:00,6379
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-12 00:00:00,6119
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-13 00:00:00,6021
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-14 00:00:00,3528
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-15 00:00:00,2601
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-16 00:00:00,6210
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-17 00:00:00,6176
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-18 00:00:00,6241
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-19 00:00:00,5970
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-20 00:00:00,6288
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-21 00:00:00,3381
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-22 00:00:00,2701
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-23 00:00:00,6015
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-24 00:00:00,6044
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-25 00:00:00,6073
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-26 00:00:00,6171
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-27 00:00:00,5911
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-28 00:00:00,3555
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-29 00:00:00,2740
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-06-30 00:00:00,5835
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-01 00:00:00,5770
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-02 00:00:00,5712
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-03 00:00:00,5690
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-04 00:00:00,3113
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-05 00:00:00,3278
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-06 00:00:00,2719
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-07 00:00:00,5829
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-08 00:00:00,5865
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-09 00:00:00,5801
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-10 00:00:00,5834
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-11 00:00:00,5852
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-12 00:00:00,3481
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-13 00:00:00,2554
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-14 00:00:00,5691
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-15 00:00:00,5659
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-16 00:00:00,5854
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-17 00:00:00,6019
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-18 00:00:00,5913
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-19 00:00:00,3395
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-20 00:00:00,2595
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-21 00:00:00,5910
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-22 00:00:00,5935
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-23 00:00:00,5815
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-24 00:00:00,5783
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-25 00:00:00,5920
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-26 00:00:00,3526
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-27 00:00:00,2562
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-28 00:00:00,5755
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-29 00:00:00,5870
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-30 00:00:00,5906
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-07-31 00:00:00,5796
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-01 00:00:00,5772
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-02 00:00:00,3351
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-03 00:00:00,2607
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-04 00:00:00,5860
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-05 00:00:00,5907
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-06 00:00:00,5863
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-07 00:00:00,5858
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-08 00:00:00,5767
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-09 00:00:00,3561
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-10 00:00:00,2731
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-11 00:00:00,5768
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-12 00:00:00,5628
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-13 00:00:00,5504
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-14 00:00:00,5776
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-15 00:00:00,5762
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-16 00:00:00,3630
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-17 00:00:00,2596
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-18 00:00:00,5639
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-19 00:00:00,5608
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-20 00:00:00,5649
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-21 00:00:00,5519
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-22 00:00:00,5409
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-23 00:00:00,3427
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-24 00:00:00,2679
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-25 00:00:00,5482
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-26 00:00:00,5237
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-27 00:00:00,5590
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-28 00:00:00,5682
+Brooklyn,Saratoga Ave,('R628'-'R064'),2014-08-29 00:00:00,5291
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-24 00:00:00,17
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-25 00:00:00,1
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-26 00:00:00,31
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-27 00:00:00,3697
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-28 00:00:00,3738
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-29 00:00:00,3870
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-30 00:00:00,4186
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-05-31 00:00:00,1579
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-01 00:00:00,1218
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-02 00:00:00,3829
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-03 00:00:00,3954
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-04 00:00:00,3993
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-05 00:00:00,3528
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-06 00:00:00,4251
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-07 00:00:00,1836
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-08 00:00:00,1486
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-09 00:00:00,3656
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-10 00:00:00,3866
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-11 00:00:00,3793
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-12 00:00:00,3816
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-13 00:00:00,3831
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-14 00:00:00,1843
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-15 00:00:00,1351
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-16 00:00:00,3798
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-17 00:00:00,3864
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-18 00:00:00,3851
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-19 00:00:00,3885
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-20 00:00:00,4147
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-21 00:00:00,1907
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-22 00:00:00,1478
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-23 00:00:00,3575
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-24 00:00:00,3649
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-25 00:00:00,3734
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-26 00:00:00,3872
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-27 00:00:00,3744
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-28 00:00:00,2000
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-29 00:00:00,1417
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-06-30 00:00:00,3292
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-01 00:00:00,3541
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-02 00:00:00,3458
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-03 00:00:00,3579
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-04 00:00:00,1852
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-05 00:00:00,1794
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-06 00:00:00,1435
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-07 00:00:00,3473
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-08 00:00:00,3579
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-09 00:00:00,3569
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-10 00:00:00,3687
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-11 00:00:00,3739
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-12 00:00:00,2000
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-13 00:00:00,1325
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-14 00:00:00,3334
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-15 00:00:00,3411
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-16 00:00:00,3822
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-17 00:00:00,3717
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-18 00:00:00,3688
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-19 00:00:00,1985
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-20 00:00:00,1490
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-21 00:00:00,3392
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-22 00:00:00,3510
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-23 00:00:00,3482
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-24 00:00:00,3633
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-25 00:00:00,4161
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-26 00:00:00,2176
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-27 00:00:00,1600
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-28 00:00:00,3429
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-29 00:00:00,3614
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-30 00:00:00,3634
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-07-31 00:00:00,3682
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-01 00:00:00,3760
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-02 00:00:00,1957
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-03 00:00:00,1471
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-04 00:00:00,3456
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-05 00:00:00,3486
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-06 00:00:00,3540
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-07 00:00:00,3597
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-08 00:00:00,3699
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-09 00:00:00,2036
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-10 00:00:00,1631
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-11 00:00:00,3371
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-12 00:00:00,3259
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-13 00:00:00,3552
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-14 00:00:00,3590
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-15 00:00:00,3742
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-16 00:00:00,2081
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-17 00:00:00,1462
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-18 00:00:00,3331
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-19 00:00:00,3263
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-20 00:00:00,3388
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-21 00:00:00,3459
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-22 00:00:00,3633
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-23 00:00:00,1961
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-24 00:00:00,1476
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-25 00:00:00,3339
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-26 00:00:00,3430
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-27 00:00:00,3523
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-28 00:00:00,3645
+Brooklyn,Knickerbocker,('K019'-'R413'),2014-08-29 00:00:00,3582
+Manhattan,Wall St,('R110'-'R027'),2014-05-24 00:00:00,3781
+Manhattan,Wall St,('R110'-'R027'),2014-05-25 00:00:00,3518
+Manhattan,Wall St,('R110'-'R027'),2014-05-26 00:00:00,3367
+Manhattan,Wall St,('R110'-'R027'),2014-05-27 00:00:00,11345
+Manhattan,Wall St,('R110'-'R027'),2014-05-28 00:00:00,11987
+Manhattan,Wall St,('R110'-'R027'),2014-05-29 00:00:00,12075
+Manhattan,Wall St,('R110'-'R027'),2014-05-30 00:00:00,11645
+Manhattan,Wall St,('R110'-'R027'),2014-05-31 00:00:00,4191
+Manhattan,Wall St,('R110'-'R027'),2014-06-01 00:00:00,3296
+Manhattan,Wall St,('R110'-'R027'),2014-06-02 00:00:00,11444
+Manhattan,Wall St,('R110'-'R027'),2014-06-03 00:00:00,12244
+Manhattan,Wall St,('R110'-'R027'),2014-06-04 00:00:00,12008
+Manhattan,Wall St,('R110'-'R027'),2014-06-05 00:00:00,11900
+Manhattan,Wall St,('R110'-'R027'),2014-06-06 00:00:00,11683
+Manhattan,Wall St,('R110'-'R027'),2014-06-07 00:00:00,4540
+Manhattan,Wall St,('R110'-'R027'),2014-06-08 00:00:00,3418
+Manhattan,Wall St,('R110'-'R027'),2014-06-09 00:00:00,11331
+Manhattan,Wall St,('R110'-'R027'),2014-06-10 00:00:00,12234
+Manhattan,Wall St,('R110'-'R027'),2014-06-11 00:00:00,12605
+Manhattan,Wall St,('R110'-'R027'),2014-06-12 00:00:00,12223
+Manhattan,Wall St,('R110'-'R027'),2014-06-13 00:00:00,11395
+Manhattan,Wall St,('R110'-'R027'),2014-06-14 00:00:00,4615
+Manhattan,Wall St,('R110'-'R027'),2014-06-15 00:00:00,3272
+Manhattan,Wall St,('R110'-'R027'),2014-06-16 00:00:00,11701
+Manhattan,Wall St,('R110'-'R027'),2014-06-17 00:00:00,12205
+Manhattan,Wall St,('R110'-'R027'),2014-06-18 00:00:00,12328
+Manhattan,Wall St,('R110'-'R027'),2014-06-19 00:00:00,12167
+Manhattan,Wall St,('R110'-'R027'),2014-06-20 00:00:00,11526
+Manhattan,Wall St,('R110'-'R027'),2014-06-21 00:00:00,4710
+Manhattan,Wall St,('R110'-'R027'),2014-06-22 00:00:00,3653
+Manhattan,Wall St,('R110'-'R027'),2014-06-23 00:00:00,11348
+Manhattan,Wall St,('R110'-'R027'),2014-06-24 00:00:00,12041
+Manhattan,Wall St,('R110'-'R027'),2014-06-25 00:00:00,12177
+Manhattan,Wall St,('R110'-'R027'),2014-06-26 00:00:00,12275
+Manhattan,Wall St,('R110'-'R027'),2014-06-27 00:00:00,11049
+Manhattan,Wall St,('R110'-'R027'),2014-06-28 00:00:00,4396
+Manhattan,Wall St,('R110'-'R027'),2014-06-29 00:00:00,3680
+Manhattan,Wall St,('R110'-'R027'),2014-06-30 00:00:00,11111
+Manhattan,Wall St,('R110'-'R027'),2014-07-01 00:00:00,11943
+Manhattan,Wall St,('R110'-'R027'),2014-07-02 00:00:00,11491
+Manhattan,Wall St,('R110'-'R027'),2014-07-03 00:00:00,10354
+Manhattan,Wall St,('R110'-'R027'),2014-07-04 00:00:00,4898
+Manhattan,Wall St,('R110'-'R027'),2014-07-05 00:00:00,3876
+Manhattan,Wall St,('R110'-'R027'),2014-07-06 00:00:00,2910
+Manhattan,Wall St,('R110'-'R027'),2014-07-07 00:00:00,10709
+Manhattan,Wall St,('R110'-'R027'),2014-07-08 00:00:00,11657
+Manhattan,Wall St,('R110'-'R027'),2014-07-09 00:00:00,12037
+Manhattan,Wall St,('R110'-'R027'),2014-07-10 00:00:00,11933
+Manhattan,Wall St,('R110'-'R027'),2014-07-11 00:00:00,11251
+Manhattan,Wall St,('R110'-'R027'),2014-07-12 00:00:00,4566
+Manhattan,Wall St,('R110'-'R027'),2014-07-13 00:00:00,3210
+Manhattan,Wall St,('R110'-'R027'),2014-07-14 00:00:00,11049
+Manhattan,Wall St,('R110'-'R027'),2014-07-15 00:00:00,11525
+Manhattan,Wall St,('R110'-'R027'),2014-07-16 00:00:00,11808
+Manhattan,Wall St,('R110'-'R027'),2014-07-17 00:00:00,12175
+Manhattan,Wall St,('R110'-'R027'),2014-07-18 00:00:00,11082
+Manhattan,Wall St,('R110'-'R027'),2014-07-19 00:00:00,4332
+Manhattan,Wall St,('R110'-'R027'),2014-07-20 00:00:00,3405
+Manhattan,Wall St,('R110'-'R027'),2014-07-21 00:00:00,11067
+Manhattan,Wall St,('R110'-'R027'),2014-07-22 00:00:00,11882
+Manhattan,Wall St,('R110'-'R027'),2014-07-23 00:00:00,11958
+Manhattan,Wall St,('R110'-'R027'),2014-07-24 00:00:00,11791
+Manhattan,Wall St,('R110'-'R027'),2014-07-25 00:00:00,11229
+Manhattan,Wall St,('R110'-'R027'),2014-07-26 00:00:00,4538
+Manhattan,Wall St,('R110'-'R027'),2014-07-27 00:00:00,3441
+Manhattan,Wall St,('R110'-'R027'),2014-07-28 00:00:00,10870
+Manhattan,Wall St,('R110'-'R027'),2014-07-29 00:00:00,11754
+Manhattan,Wall St,('R110'-'R027'),2014-07-30 00:00:00,11407
+Manhattan,Wall St,('R110'-'R027'),2014-07-31 00:00:00,11803
+Manhattan,Wall St,('R110'-'R027'),2014-08-01 00:00:00,10792
+Manhattan,Wall St,('R110'-'R027'),2014-08-02 00:00:00,4022
+Manhattan,Wall St,('R110'-'R027'),2014-08-03 00:00:00,3656
+Manhattan,Wall St,('R110'-'R027'),2014-08-04 00:00:00,10803
+Manhattan,Wall St,('R110'-'R027'),2014-08-05 00:00:00,11539
+Manhattan,Wall St,('R110'-'R027'),2014-08-06 00:00:00,11497
+Manhattan,Wall St,('R110'-'R027'),2014-08-07 00:00:00,11623
+Manhattan,Wall St,('R110'-'R027'),2014-08-08 00:00:00,10580
+Manhattan,Wall St,('R110'-'R027'),2014-08-09 00:00:00,4405
+Manhattan,Wall St,('R110'-'R027'),2014-08-10 00:00:00,3447
+Manhattan,Wall St,('R110'-'R027'),2014-08-11 00:00:00,10577
+Manhattan,Wall St,('R110'-'R027'),2014-08-12 00:00:00,11052
+Manhattan,Wall St,('R110'-'R027'),2014-08-13 00:00:00,11066
+Manhattan,Wall St,('R110'-'R027'),2014-08-14 00:00:00,11262
+Manhattan,Wall St,('R110'-'R027'),2014-08-15 00:00:00,10699
+Manhattan,Wall St,('R110'-'R027'),2014-08-16 00:00:00,4302
+Manhattan,Wall St,('R110'-'R027'),2014-08-17 00:00:00,3379
+Manhattan,Wall St,('R110'-'R027'),2014-08-18 00:00:00,10488
+Manhattan,Wall St,('R110'-'R027'),2014-08-19 00:00:00,10982
+Manhattan,Wall St,('R110'-'R027'),2014-08-20 00:00:00,10895
+Manhattan,Wall St,('R110'-'R027'),2014-08-21 00:00:00,11352
+Manhattan,Wall St,('R110'-'R027'),2014-08-22 00:00:00,9980
+Manhattan,Wall St,('R110'-'R027'),2014-08-23 00:00:00,4309
+Manhattan,Wall St,('R110'-'R027'),2014-08-24 00:00:00,3578
+Manhattan,Wall St,('R110'-'R027'),2014-08-25 00:00:00,10401
+Manhattan,Wall St,('R110'-'R027'),2014-08-26 00:00:00,10727
+Manhattan,Wall St,('R110'-'R027'),2014-08-27 00:00:00,10807
+Manhattan,Wall St,('R110'-'R027'),2014-08-28 00:00:00,10774
+Manhattan,Wall St,('R110'-'R027'),2014-08-29 00:00:00,8430
+Manhattan,Wall St,('R203'-'R043'),2014-05-24 00:00:00,7799
+Manhattan,Wall St,('R203'-'R043'),2014-05-25 00:00:00,7406
+Manhattan,Wall St,('R203'-'R043'),2014-05-26 00:00:00,6947
+Manhattan,Wall St,('R203'-'R043'),2014-05-27 00:00:00,20088
+Manhattan,Wall St,('R203'-'R043'),2014-05-28 00:00:00,21229
+Manhattan,Wall St,('R203'-'R043'),2014-05-29 00:00:00,21358
+Manhattan,Wall St,('R203'-'R043'),2014-05-30 00:00:00,20085
+Manhattan,Wall St,('R203'-'R043'),2014-05-31 00:00:00,8787
+Manhattan,Wall St,('R203'-'R043'),2014-06-01 00:00:00,6534
+Manhattan,Wall St,('R203'-'R043'),2014-06-02 00:00:00,20466
+Manhattan,Wall St,('R203'-'R043'),2014-06-03 00:00:00,21264
+Manhattan,Wall St,('R203'-'R043'),2014-06-04 00:00:00,20786
+Manhattan,Wall St,('R203'-'R043'),2014-06-05 00:00:00,20326
+Manhattan,Wall St,('R203'-'R043'),2014-06-06 00:00:00,20097
+Manhattan,Wall St,('R203'-'R043'),2014-06-07 00:00:00,8974
+Manhattan,Wall St,('R203'-'R043'),2014-06-08 00:00:00,7107
+Manhattan,Wall St,('R203'-'R043'),2014-06-09 00:00:00,19619
+Manhattan,Wall St,('R203'-'R043'),2014-06-10 00:00:00,21680
+Manhattan,Wall St,('R203'-'R043'),2014-06-11 00:00:00,21684
+Manhattan,Wall St,('R203'-'R043'),2014-06-12 00:00:00,21411
+Manhattan,Wall St,('R203'-'R043'),2014-06-13 00:00:00,19237
+Manhattan,Wall St,('R203'-'R043'),2014-06-14 00:00:00,10142
+Manhattan,Wall St,('R203'-'R043'),2014-06-15 00:00:00,6066
+Manhattan,Wall St,('R203'-'R043'),2014-06-16 00:00:00,20334
+Manhattan,Wall St,('R203'-'R043'),2014-06-17 00:00:00,21540
+Manhattan,Wall St,('R203'-'R043'),2014-06-18 00:00:00,21591
+Manhattan,Wall St,('R203'-'R043'),2014-06-19 00:00:00,21170
+Manhattan,Wall St,('R203'-'R043'),2014-06-20 00:00:00,20099
+Manhattan,Wall St,('R203'-'R043'),2014-06-21 00:00:00,11072
+Manhattan,Wall St,('R203'-'R043'),2014-06-22 00:00:00,8622
+Manhattan,Wall St,('R203'-'R043'),2014-06-23 00:00:00,19880
+Manhattan,Wall St,('R203'-'R043'),2014-06-24 00:00:00,20845
+Manhattan,Wall St,('R203'-'R043'),2014-06-25 00:00:00,20791
+Manhattan,Wall St,('R203'-'R043'),2014-06-26 00:00:00,21051
+Manhattan,Wall St,('R203'-'R043'),2014-06-27 00:00:00,19873
+Manhattan,Wall St,('R203'-'R043'),2014-06-28 00:00:00,9019
+Manhattan,Wall St,('R203'-'R043'),2014-06-29 00:00:00,6620
+Manhattan,Wall St,('R203'-'R043'),2014-06-30 00:00:00,20128
+Manhattan,Wall St,('R203'-'R043'),2014-07-01 00:00:00,20471
+Manhattan,Wall St,('R203'-'R043'),2014-07-02 00:00:00,20068
+Manhattan,Wall St,('R203'-'R043'),2014-07-03 00:00:00,17085
+Manhattan,Wall St,('R203'-'R043'),2014-07-04 00:00:00,8907
+Manhattan,Wall St,('R203'-'R043'),2014-07-05 00:00:00,7519
+Manhattan,Wall St,('R203'-'R043'),2014-07-06 00:00:00,5717
+Manhattan,Wall St,('R203'-'R043'),2014-07-07 00:00:00,18787
+Manhattan,Wall St,('R203'-'R043'),2014-07-08 00:00:00,20306
+Manhattan,Wall St,('R203'-'R043'),2014-07-09 00:00:00,20484
+Manhattan,Wall St,('R203'-'R043'),2014-07-10 00:00:00,19614
+Manhattan,Wall St,('R203'-'R043'),2014-07-11 00:00:00,18862
+Manhattan,Wall St,('R203'-'R043'),2014-07-12 00:00:00,8694
+Manhattan,Wall St,('R203'-'R043'),2014-07-13 00:00:00,6045
+Manhattan,Wall St,('R203'-'R043'),2014-07-14 00:00:00,19323
+Manhattan,Wall St,('R203'-'R043'),2014-07-15 00:00:00,20321
+Manhattan,Wall St,('R203'-'R043'),2014-07-16 00:00:00,20794
+Manhattan,Wall St,('R203'-'R043'),2014-07-17 00:00:00,20893
+Manhattan,Wall St,('R203'-'R043'),2014-07-18 00:00:00,19108
+Manhattan,Wall St,('R203'-'R043'),2014-07-19 00:00:00,8735
+Manhattan,Wall St,('R203'-'R043'),2014-07-20 00:00:00,6371
+Manhattan,Wall St,('R203'-'R043'),2014-07-21 00:00:00,19737
+Manhattan,Wall St,('R203'-'R043'),2014-07-22 00:00:00,21200
+Manhattan,Wall St,('R203'-'R043'),2014-07-23 00:00:00,20694
+Manhattan,Wall St,('R203'-'R043'),2014-07-24 00:00:00,20644
+Manhattan,Wall St,('R203'-'R043'),2014-07-25 00:00:00,19088
+Manhattan,Wall St,('R203'-'R043'),2014-07-26 00:00:00,8922
+Manhattan,Wall St,('R203'-'R043'),2014-07-27 00:00:00,6173
+Manhattan,Wall St,('R203'-'R043'),2014-07-28 00:00:00,19331
+Manhattan,Wall St,('R203'-'R043'),2014-07-29 00:00:00,20622
+Manhattan,Wall St,('R203'-'R043'),2014-07-30 00:00:00,20878
+Manhattan,Wall St,('R203'-'R043'),2014-07-31 00:00:00,20489
+Manhattan,Wall St,('R203'-'R043'),2014-08-01 00:00:00,18310
+Manhattan,Wall St,('R203'-'R043'),2014-08-02 00:00:00,8525
+Manhattan,Wall St,('R203'-'R043'),2014-08-03 00:00:00,6551
+Manhattan,Wall St,('R203'-'R043'),2014-08-04 00:00:00,19508
+Manhattan,Wall St,('R203'-'R043'),2014-08-05 00:00:00,19982
+Manhattan,Wall St,('R203'-'R043'),2014-08-06 00:00:00,20222
+Manhattan,Wall St,('R203'-'R043'),2014-08-07 00:00:00,19899
+Manhattan,Wall St,('R203'-'R043'),2014-08-08 00:00:00,18276
+Manhattan,Wall St,('R203'-'R043'),2014-08-09 00:00:00,8685
+Manhattan,Wall St,('R203'-'R043'),2014-08-10 00:00:00,6571
+Manhattan,Wall St,('R203'-'R043'),2014-08-11 00:00:00,18873
+Manhattan,Wall St,('R203'-'R043'),2014-08-12 00:00:00,19440
+Manhattan,Wall St,('R203'-'R043'),2014-08-13 00:00:00,19222
+Manhattan,Wall St,('R203'-'R043'),2014-08-14 00:00:00,20212
+Manhattan,Wall St,('R203'-'R043'),2014-08-15 00:00:00,17958
+Manhattan,Wall St,('R203'-'R043'),2014-08-16 00:00:00,8804
+Manhattan,Wall St,('R203'-'R043'),2014-08-17 00:00:00,6432
+Manhattan,Wall St,('R203'-'R043'),2014-08-18 00:00:00,18569
+Manhattan,Wall St,('R203'-'R043'),2014-08-19 00:00:00,19203
+Manhattan,Wall St,('R203'-'R043'),2014-08-20 00:00:00,19160
+Manhattan,Wall St,('R203'-'R043'),2014-08-21 00:00:00,18121
+Manhattan,Wall St,('R203'-'R043'),2014-08-22 00:00:00,17063
+Manhattan,Wall St,('R203'-'R043'),2014-08-23 00:00:00,8763
+Manhattan,Wall St,('R203'-'R043'),2014-08-24 00:00:00,6394
+Manhattan,Wall St,('R203'-'R043'),2014-08-25 00:00:00,18180
+Manhattan,Wall St,('R203'-'R043'),2014-08-26 00:00:00,19252
+Manhattan,Wall St,('R203'-'R043'),2014-08-27 00:00:00,18925
+Manhattan,Wall St,('R203'-'R043'),2014-08-28 00:00:00,18559
+Manhattan,Wall St,('R203'-'R043'),2014-08-29 00:00:00,15828
+Manhattan,Wall St,('R204A'-'R043'),2014-05-24 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-05-25 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-05-26 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-05-27 00:00:00,733
+Manhattan,Wall St,('R204A'-'R043'),2014-05-28 00:00:00,805
+Manhattan,Wall St,('R204A'-'R043'),2014-05-29 00:00:00,741
+Manhattan,Wall St,('R204A'-'R043'),2014-05-30 00:00:00,688
+Manhattan,Wall St,('R204A'-'R043'),2014-05-31 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-01 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-02 00:00:00,782
+Manhattan,Wall St,('R204A'-'R043'),2014-06-03 00:00:00,854
+Manhattan,Wall St,('R204A'-'R043'),2014-06-04 00:00:00,714
+Manhattan,Wall St,('R204A'-'R043'),2014-06-05 00:00:00,631
+Manhattan,Wall St,('R204A'-'R043'),2014-06-06 00:00:00,722
+Manhattan,Wall St,('R204A'-'R043'),2014-06-07 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-08 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-09 00:00:00,764
+Manhattan,Wall St,('R204A'-'R043'),2014-06-10 00:00:00,765
+Manhattan,Wall St,('R204A'-'R043'),2014-06-11 00:00:00,779
+Manhattan,Wall St,('R204A'-'R043'),2014-06-12 00:00:00,737
+Manhattan,Wall St,('R204A'-'R043'),2014-06-13 00:00:00,697
+Manhattan,Wall St,('R204A'-'R043'),2014-06-14 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-15 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-16 00:00:00,687
+Manhattan,Wall St,('R204A'-'R043'),2014-06-17 00:00:00,669
+Manhattan,Wall St,('R204A'-'R043'),2014-06-18 00:00:00,706
+Manhattan,Wall St,('R204A'-'R043'),2014-06-19 00:00:00,778
+Manhattan,Wall St,('R204A'-'R043'),2014-06-20 00:00:00,722
+Manhattan,Wall St,('R204A'-'R043'),2014-06-21 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-22 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-23 00:00:00,719
+Manhattan,Wall St,('R204A'-'R043'),2014-06-24 00:00:00,726
+Manhattan,Wall St,('R204A'-'R043'),2014-06-25 00:00:00,728
+Manhattan,Wall St,('R204A'-'R043'),2014-06-26 00:00:00,671
+Manhattan,Wall St,('R204A'-'R043'),2014-06-27 00:00:00,623
+Manhattan,Wall St,('R204A'-'R043'),2014-06-28 00:00:00,3
+Manhattan,Wall St,('R204A'-'R043'),2014-06-29 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-06-30 00:00:00,648
+Manhattan,Wall St,('R204A'-'R043'),2014-07-01 00:00:00,704
+Manhattan,Wall St,('R204A'-'R043'),2014-07-02 00:00:00,761
+Manhattan,Wall St,('R204A'-'R043'),2014-07-03 00:00:00,567
+Manhattan,Wall St,('R204A'-'R043'),2014-07-04 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-05 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-06 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-07 00:00:00,577
+Manhattan,Wall St,('R204A'-'R043'),2014-07-08 00:00:00,697
+Manhattan,Wall St,('R204A'-'R043'),2014-07-09 00:00:00,680
+Manhattan,Wall St,('R204A'-'R043'),2014-07-10 00:00:00,671
+Manhattan,Wall St,('R204A'-'R043'),2014-07-11 00:00:00,606
+Manhattan,Wall St,('R204A'-'R043'),2014-07-12 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-13 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-14 00:00:00,680
+Manhattan,Wall St,('R204A'-'R043'),2014-07-15 00:00:00,750
+Manhattan,Wall St,('R204A'-'R043'),2014-07-16 00:00:00,712
+Manhattan,Wall St,('R204A'-'R043'),2014-07-17 00:00:00,653
+Manhattan,Wall St,('R204A'-'R043'),2014-07-18 00:00:00,601
+Manhattan,Wall St,('R204A'-'R043'),2014-07-19 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-20 00:00:00,1
+Manhattan,Wall St,('R204A'-'R043'),2014-07-21 00:00:00,668
+Manhattan,Wall St,('R204A'-'R043'),2014-07-22 00:00:00,672
+Manhattan,Wall St,('R204A'-'R043'),2014-07-23 00:00:00,570
+Manhattan,Wall St,('R204A'-'R043'),2014-07-24 00:00:00,678
+Manhattan,Wall St,('R204A'-'R043'),2014-07-25 00:00:00,645
+Manhattan,Wall St,('R204A'-'R043'),2014-07-26 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-07-27 00:00:00,1
+Manhattan,Wall St,('R204A'-'R043'),2014-07-28 00:00:00,662
+Manhattan,Wall St,('R204A'-'R043'),2014-07-29 00:00:00,710
+Manhattan,Wall St,('R204A'-'R043'),2014-07-30 00:00:00,607
+Manhattan,Wall St,('R204A'-'R043'),2014-07-31 00:00:00,657
+Manhattan,Wall St,('R204A'-'R043'),2014-08-01 00:00:00,497
+Manhattan,Wall St,('R204A'-'R043'),2014-08-02 00:00:00,4
+Manhattan,Wall St,('R204A'-'R043'),2014-08-03 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-04 00:00:00,668
+Manhattan,Wall St,('R204A'-'R043'),2014-08-05 00:00:00,579
+Manhattan,Wall St,('R204A'-'R043'),2014-08-06 00:00:00,573
+Manhattan,Wall St,('R204A'-'R043'),2014-08-07 00:00:00,667
+Manhattan,Wall St,('R204A'-'R043'),2014-08-08 00:00:00,638
+Manhattan,Wall St,('R204A'-'R043'),2014-08-09 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-10 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-11 00:00:00,595
+Manhattan,Wall St,('R204A'-'R043'),2014-08-12 00:00:00,625
+Manhattan,Wall St,('R204A'-'R043'),2014-08-13 00:00:00,637
+Manhattan,Wall St,('R204A'-'R043'),2014-08-14 00:00:00,576
+Manhattan,Wall St,('R204A'-'R043'),2014-08-15 00:00:00,536
+Manhattan,Wall St,('R204A'-'R043'),2014-08-16 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-17 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-18 00:00:00,629
+Manhattan,Wall St,('R204A'-'R043'),2014-08-19 00:00:00,620
+Manhattan,Wall St,('R204A'-'R043'),2014-08-20 00:00:00,652
+Manhattan,Wall St,('R204A'-'R043'),2014-08-21 00:00:00,614
+Manhattan,Wall St,('R204A'-'R043'),2014-08-22 00:00:00,565
+Manhattan,Wall St,('R204A'-'R043'),2014-08-23 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-24 00:00:00,0
+Manhattan,Wall St,('R204A'-'R043'),2014-08-25 00:00:00,571
+Manhattan,Wall St,('R204A'-'R043'),2014-08-26 00:00:00,550
+Manhattan,Wall St,('R204A'-'R043'),2014-08-27 00:00:00,531
+Manhattan,Wall St,('R204A'-'R043'),2014-08-28 00:00:00,526
+Manhattan,Wall St,('R204A'-'R043'),2014-08-29 00:00:00,445
+Manhattan,Wall St,('R203A'-'R043'),2014-05-24 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-05-25 00:00:00,2
+Manhattan,Wall St,('R203A'-'R043'),2014-05-26 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-05-27 00:00:00,1234
+Manhattan,Wall St,('R203A'-'R043'),2014-05-28 00:00:00,1321
+Manhattan,Wall St,('R203A'-'R043'),2014-05-29 00:00:00,1244
+Manhattan,Wall St,('R203A'-'R043'),2014-05-30 00:00:00,1175
+Manhattan,Wall St,('R203A'-'R043'),2014-05-31 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-01 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-02 00:00:00,1281
+Manhattan,Wall St,('R203A'-'R043'),2014-06-03 00:00:00,1544
+Manhattan,Wall St,('R203A'-'R043'),2014-06-04 00:00:00,1299
+Manhattan,Wall St,('R203A'-'R043'),2014-06-05 00:00:00,1268
+Manhattan,Wall St,('R203A'-'R043'),2014-06-06 00:00:00,1218
+Manhattan,Wall St,('R203A'-'R043'),2014-06-07 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-08 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-09 00:00:00,1423
+Manhattan,Wall St,('R203A'-'R043'),2014-06-10 00:00:00,1405
+Manhattan,Wall St,('R203A'-'R043'),2014-06-11 00:00:00,1387
+Manhattan,Wall St,('R203A'-'R043'),2014-06-12 00:00:00,1369
+Manhattan,Wall St,('R203A'-'R043'),2014-06-13 00:00:00,1320
+Manhattan,Wall St,('R203A'-'R043'),2014-06-14 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-15 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-16 00:00:00,1272
+Manhattan,Wall St,('R203A'-'R043'),2014-06-17 00:00:00,1285
+Manhattan,Wall St,('R203A'-'R043'),2014-06-18 00:00:00,1339
+Manhattan,Wall St,('R203A'-'R043'),2014-06-19 00:00:00,1241
+Manhattan,Wall St,('R203A'-'R043'),2014-06-20 00:00:00,1137
+Manhattan,Wall St,('R203A'-'R043'),2014-06-21 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-22 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-23 00:00:00,1202
+Manhattan,Wall St,('R203A'-'R043'),2014-06-24 00:00:00,1267
+Manhattan,Wall St,('R203A'-'R043'),2014-06-25 00:00:00,1182
+Manhattan,Wall St,('R203A'-'R043'),2014-06-26 00:00:00,1211
+Manhattan,Wall St,('R203A'-'R043'),2014-06-27 00:00:00,1222
+Manhattan,Wall St,('R203A'-'R043'),2014-06-28 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-29 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-06-30 00:00:00,1148
+Manhattan,Wall St,('R203A'-'R043'),2014-07-01 00:00:00,1173
+Manhattan,Wall St,('R203A'-'R043'),2014-07-02 00:00:00,1249
+Manhattan,Wall St,('R203A'-'R043'),2014-07-03 00:00:00,1027
+Manhattan,Wall St,('R203A'-'R043'),2014-07-04 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-05 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-06 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-07 00:00:00,1134
+Manhattan,Wall St,('R203A'-'R043'),2014-07-08 00:00:00,1138
+Manhattan,Wall St,('R203A'-'R043'),2014-07-09 00:00:00,1177
+Manhattan,Wall St,('R203A'-'R043'),2014-07-10 00:00:00,1181
+Manhattan,Wall St,('R203A'-'R043'),2014-07-11 00:00:00,1149
+Manhattan,Wall St,('R203A'-'R043'),2014-07-12 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-13 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-14 00:00:00,1243
+Manhattan,Wall St,('R203A'-'R043'),2014-07-15 00:00:00,1299
+Manhattan,Wall St,('R203A'-'R043'),2014-07-16 00:00:00,1216
+Manhattan,Wall St,('R203A'-'R043'),2014-07-17 00:00:00,1184
+Manhattan,Wall St,('R203A'-'R043'),2014-07-18 00:00:00,572
+Manhattan,Wall St,('R203A'-'R043'),2014-07-19 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-20 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-21 00:00:00,1229
+Manhattan,Wall St,('R203A'-'R043'),2014-07-22 00:00:00,1280
+Manhattan,Wall St,('R203A'-'R043'),2014-07-23 00:00:00,1384
+Manhattan,Wall St,('R203A'-'R043'),2014-07-24 00:00:00,1255
+Manhattan,Wall St,('R203A'-'R043'),2014-07-25 00:00:00,1034
+Manhattan,Wall St,('R203A'-'R043'),2014-07-26 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-27 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-07-28 00:00:00,1104
+Manhattan,Wall St,('R203A'-'R043'),2014-07-29 00:00:00,1141
+Manhattan,Wall St,('R203A'-'R043'),2014-07-30 00:00:00,1232
+Manhattan,Wall St,('R203A'-'R043'),2014-07-31 00:00:00,1160
+Manhattan,Wall St,('R203A'-'R043'),2014-08-01 00:00:00,1036
+Manhattan,Wall St,('R203A'-'R043'),2014-08-02 00:00:00,7
+Manhattan,Wall St,('R203A'-'R043'),2014-08-03 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-04 00:00:00,1084
+Manhattan,Wall St,('R203A'-'R043'),2014-08-05 00:00:00,1138
+Manhattan,Wall St,('R203A'-'R043'),2014-08-06 00:00:00,1122
+Manhattan,Wall St,('R203A'-'R043'),2014-08-07 00:00:00,1105
+Manhattan,Wall St,('R203A'-'R043'),2014-08-08 00:00:00,1001
+Manhattan,Wall St,('R203A'-'R043'),2014-08-09 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-10 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-11 00:00:00,1020
+Manhattan,Wall St,('R203A'-'R043'),2014-08-12 00:00:00,1146
+Manhattan,Wall St,('R203A'-'R043'),2014-08-13 00:00:00,1086
+Manhattan,Wall St,('R203A'-'R043'),2014-08-14 00:00:00,1099
+Manhattan,Wall St,('R203A'-'R043'),2014-08-15 00:00:00,907
+Manhattan,Wall St,('R203A'-'R043'),2014-08-16 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-17 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-18 00:00:00,964
+Manhattan,Wall St,('R203A'-'R043'),2014-08-19 00:00:00,1035
+Manhattan,Wall St,('R203A'-'R043'),2014-08-20 00:00:00,979
+Manhattan,Wall St,('R203A'-'R043'),2014-08-21 00:00:00,928
+Manhattan,Wall St,('R203A'-'R043'),2014-08-22 00:00:00,973
+Manhattan,Wall St,('R203A'-'R043'),2014-08-23 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-24 00:00:00,0
+Manhattan,Wall St,('R203A'-'R043'),2014-08-25 00:00:00,934
+Manhattan,Wall St,('R203A'-'R043'),2014-08-26 00:00:00,975
+Manhattan,Wall St,('R203A'-'R043'),2014-08-27 00:00:00,989
+Manhattan,Wall St,('R203A'-'R043'),2014-08-28 00:00:00,980
+Manhattan,Wall St,('R203A'-'R043'),2014-08-29 00:00:00,810
+Manhattan,Wall St,('R204'-'R043'),2014-05-24 00:00:00,1299
+Manhattan,Wall St,('R204'-'R043'),2014-05-25 00:00:00,1298
+Manhattan,Wall St,('R204'-'R043'),2014-05-26 00:00:00,1249
+Manhattan,Wall St,('R204'-'R043'),2014-05-27 00:00:00,4712
+Manhattan,Wall St,('R204'-'R043'),2014-05-28 00:00:00,4955
+Manhattan,Wall St,('R204'-'R043'),2014-05-29 00:00:00,4878
+Manhattan,Wall St,('R204'-'R043'),2014-05-30 00:00:00,4659
+Manhattan,Wall St,('R204'-'R043'),2014-05-31 00:00:00,1451
+Manhattan,Wall St,('R204'-'R043'),2014-06-01 00:00:00,1049
+Manhattan,Wall St,('R204'-'R043'),2014-06-02 00:00:00,4898
+Manhattan,Wall St,('R204'-'R043'),2014-06-03 00:00:00,4805
+Manhattan,Wall St,('R204'-'R043'),2014-06-04 00:00:00,4753
+Manhattan,Wall St,('R204'-'R043'),2014-06-05 00:00:00,4552
+Manhattan,Wall St,('R204'-'R043'),2014-06-06 00:00:00,4526
+Manhattan,Wall St,('R204'-'R043'),2014-06-07 00:00:00,1425
+Manhattan,Wall St,('R204'-'R043'),2014-06-08 00:00:00,1334
+Manhattan,Wall St,('R204'-'R043'),2014-06-09 00:00:00,3849
+Manhattan,Wall St,('R204'-'R043'),2014-06-10 00:00:00,4095
+Manhattan,Wall St,('R204'-'R043'),2014-06-11 00:00:00,4435
+Manhattan,Wall St,('R204'-'R043'),2014-06-12 00:00:00,3961
+Manhattan,Wall St,('R204'-'R043'),2014-06-13 00:00:00,3701
+Manhattan,Wall St,('R204'-'R043'),2014-06-14 00:00:00,1503
+Manhattan,Wall St,('R204'-'R043'),2014-06-15 00:00:00,975
+Manhattan,Wall St,('R204'-'R043'),2014-06-16 00:00:00,4005
+Manhattan,Wall St,('R204'-'R043'),2014-06-17 00:00:00,4123
+Manhattan,Wall St,('R204'-'R043'),2014-06-18 00:00:00,4020
+Manhattan,Wall St,('R204'-'R043'),2014-06-19 00:00:00,3833
+Manhattan,Wall St,('R204'-'R043'),2014-06-20 00:00:00,3688
+Manhattan,Wall St,('R204'-'R043'),2014-06-21 00:00:00,1584
+Manhattan,Wall St,('R204'-'R043'),2014-06-22 00:00:00,1373
+Manhattan,Wall St,('R204'-'R043'),2014-06-23 00:00:00,4068
+Manhattan,Wall St,('R204'-'R043'),2014-06-24 00:00:00,4103
+Manhattan,Wall St,('R204'-'R043'),2014-06-25 00:00:00,3875
+Manhattan,Wall St,('R204'-'R043'),2014-06-26 00:00:00,3996
+Manhattan,Wall St,('R204'-'R043'),2014-06-27 00:00:00,4053
+Manhattan,Wall St,('R204'-'R043'),2014-06-28 00:00:00,1491
+Manhattan,Wall St,('R204'-'R043'),2014-06-29 00:00:00,1294
+Manhattan,Wall St,('R204'-'R043'),2014-06-30 00:00:00,4822
+Manhattan,Wall St,('R204'-'R043'),2014-07-01 00:00:00,4728
+Manhattan,Wall St,('R204'-'R043'),2014-07-02 00:00:00,4603
+Manhattan,Wall St,('R204'-'R043'),2014-07-03 00:00:00,4049
+Manhattan,Wall St,('R204'-'R043'),2014-07-04 00:00:00,1584
+Manhattan,Wall St,('R204'-'R043'),2014-07-05 00:00:00,1385
+Manhattan,Wall St,('R204'-'R043'),2014-07-06 00:00:00,1173
+Manhattan,Wall St,('R204'-'R043'),2014-07-07 00:00:00,4816
+Manhattan,Wall St,('R204'-'R043'),2014-07-08 00:00:00,4761
+Manhattan,Wall St,('R204'-'R043'),2014-07-09 00:00:00,4658
+Manhattan,Wall St,('R204'-'R043'),2014-07-10 00:00:00,4722
+Manhattan,Wall St,('R204'-'R043'),2014-07-11 00:00:00,4112
+Manhattan,Wall St,('R204'-'R043'),2014-07-12 00:00:00,1387
+Manhattan,Wall St,('R204'-'R043'),2014-07-13 00:00:00,1164
+Manhattan,Wall St,('R204'-'R043'),2014-07-14 00:00:00,4752
+Manhattan,Wall St,('R204'-'R043'),2014-07-15 00:00:00,4680
+Manhattan,Wall St,('R204'-'R043'),2014-07-16 00:00:00,4757
+Manhattan,Wall St,('R204'-'R043'),2014-07-17 00:00:00,4910
+Manhattan,Wall St,('R204'-'R043'),2014-07-18 00:00:00,4308
+Manhattan,Wall St,('R204'-'R043'),2014-07-19 00:00:00,1481
+Manhattan,Wall St,('R204'-'R043'),2014-07-20 00:00:00,1290
+Manhattan,Wall St,('R204'-'R043'),2014-07-21 00:00:00,4721
+Manhattan,Wall St,('R204'-'R043'),2014-07-22 00:00:00,4914
+Manhattan,Wall St,('R204'-'R043'),2014-07-23 00:00:00,4978
+Manhattan,Wall St,('R204'-'R043'),2014-07-24 00:00:00,4589
+Manhattan,Wall St,('R204'-'R043'),2014-07-25 00:00:00,4477
+Manhattan,Wall St,('R204'-'R043'),2014-07-26 00:00:00,1566
+Manhattan,Wall St,('R204'-'R043'),2014-07-27 00:00:00,1182
+Manhattan,Wall St,('R204'-'R043'),2014-07-28 00:00:00,4806
+Manhattan,Wall St,('R204'-'R043'),2014-07-29 00:00:00,4880
+Manhattan,Wall St,('R204'-'R043'),2014-07-30 00:00:00,4850
+Manhattan,Wall St,('R204'-'R043'),2014-07-31 00:00:00,4792
+Manhattan,Wall St,('R204'-'R043'),2014-08-01 00:00:00,3979
+Manhattan,Wall St,('R204'-'R043'),2014-08-02 00:00:00,1471
+Manhattan,Wall St,('R204'-'R043'),2014-08-03 00:00:00,1196
+Manhattan,Wall St,('R204'-'R043'),2014-08-04 00:00:00,4669
+Manhattan,Wall St,('R204'-'R043'),2014-08-05 00:00:00,4568
+Manhattan,Wall St,('R204'-'R043'),2014-08-06 00:00:00,4778
+Manhattan,Wall St,('R204'-'R043'),2014-08-07 00:00:00,4713
+Manhattan,Wall St,('R204'-'R043'),2014-08-08 00:00:00,4227
+Manhattan,Wall St,('R204'-'R043'),2014-08-09 00:00:00,1573
+Manhattan,Wall St,('R204'-'R043'),2014-08-10 00:00:00,1213
+Manhattan,Wall St,('R204'-'R043'),2014-08-11 00:00:00,4595
+Manhattan,Wall St,('R204'-'R043'),2014-08-12 00:00:00,4666
+Manhattan,Wall St,('R204'-'R043'),2014-08-13 00:00:00,4631
+Manhattan,Wall St,('R204'-'R043'),2014-08-14 00:00:00,4593
+Manhattan,Wall St,('R204'-'R043'),2014-08-15 00:00:00,4111
+Manhattan,Wall St,('R204'-'R043'),2014-08-16 00:00:00,1408
+Manhattan,Wall St,('R204'-'R043'),2014-08-17 00:00:00,1137
+Manhattan,Wall St,('R204'-'R043'),2014-08-18 00:00:00,4336
+Manhattan,Wall St,('R204'-'R043'),2014-08-19 00:00:00,4600
+Manhattan,Wall St,('R204'-'R043'),2014-08-20 00:00:00,4677
+Manhattan,Wall St,('R204'-'R043'),2014-08-21 00:00:00,4231
+Manhattan,Wall St,('R204'-'R043'),2014-08-22 00:00:00,3868
+Manhattan,Wall St,('R204'-'R043'),2014-08-23 00:00:00,1419
+Manhattan,Wall St,('R204'-'R043'),2014-08-24 00:00:00,1175
+Manhattan,Wall St,('R204'-'R043'),2014-08-25 00:00:00,4381
+Manhattan,Wall St,('R204'-'R043'),2014-08-26 00:00:00,4565
+Manhattan,Wall St,('R204'-'R043'),2014-08-27 00:00:00,4427
+Manhattan,Wall St,('R204'-'R043'),2014-08-28 00:00:00,4403
+Manhattan,Wall St,('R204'-'R043'),2014-08-29 00:00:00,3474
+Manhattan,Wall St,('R111'-'R027'),2014-05-24 00:00:00,3080
+Manhattan,Wall St,('R111'-'R027'),2014-05-25 00:00:00,2803
+Manhattan,Wall St,('R111'-'R027'),2014-05-26 00:00:00,2514
+Manhattan,Wall St,('R111'-'R027'),2014-05-27 00:00:00,9027
+Manhattan,Wall St,('R111'-'R027'),2014-05-28 00:00:00,9417
+Manhattan,Wall St,('R111'-'R027'),2014-05-29 00:00:00,9597
+Manhattan,Wall St,('R111'-'R027'),2014-05-30 00:00:00,8743
+Manhattan,Wall St,('R111'-'R027'),2014-05-31 00:00:00,3027
+Manhattan,Wall St,('R111'-'R027'),2014-06-01 00:00:00,2563
+Manhattan,Wall St,('R111'-'R027'),2014-06-02 00:00:00,9010
+Manhattan,Wall St,('R111'-'R027'),2014-06-03 00:00:00,9580
+Manhattan,Wall St,('R111'-'R027'),2014-06-04 00:00:00,9410
+Manhattan,Wall St,('R111'-'R027'),2014-06-05 00:00:00,9379
+Manhattan,Wall St,('R111'-'R027'),2014-06-06 00:00:00,8908
+Manhattan,Wall St,('R111'-'R027'),2014-06-07 00:00:00,3528
+Manhattan,Wall St,('R111'-'R027'),2014-06-08 00:00:00,2777
+Manhattan,Wall St,('R111'-'R027'),2014-06-09 00:00:00,8995
+Manhattan,Wall St,('R111'-'R027'),2014-06-10 00:00:00,10032
+Manhattan,Wall St,('R111'-'R027'),2014-06-11 00:00:00,9761
+Manhattan,Wall St,('R111'-'R027'),2014-06-12 00:00:00,9450
+Manhattan,Wall St,('R111'-'R027'),2014-06-13 00:00:00,8573
+Manhattan,Wall St,('R111'-'R027'),2014-06-14 00:00:00,3353
+Manhattan,Wall St,('R111'-'R027'),2014-06-15 00:00:00,2571
+Manhattan,Wall St,('R111'-'R027'),2014-06-16 00:00:00,9189
+Manhattan,Wall St,('R111'-'R027'),2014-06-17 00:00:00,9716
+Manhattan,Wall St,('R111'-'R027'),2014-06-18 00:00:00,9759
+Manhattan,Wall St,('R111'-'R027'),2014-06-19 00:00:00,9677
+Manhattan,Wall St,('R111'-'R027'),2014-06-20 00:00:00,8823
+Manhattan,Wall St,('R111'-'R027'),2014-06-21 00:00:00,3491
+Manhattan,Wall St,('R111'-'R027'),2014-06-22 00:00:00,2905
+Manhattan,Wall St,('R111'-'R027'),2014-06-23 00:00:00,9149
+Manhattan,Wall St,('R111'-'R027'),2014-06-24 00:00:00,9634
+Manhattan,Wall St,('R111'-'R027'),2014-06-25 00:00:00,9393
+Manhattan,Wall St,('R111'-'R027'),2014-06-26 00:00:00,9423
+Manhattan,Wall St,('R111'-'R027'),2014-06-27 00:00:00,8573
+Manhattan,Wall St,('R111'-'R027'),2014-06-28 00:00:00,3429
+Manhattan,Wall St,('R111'-'R027'),2014-06-29 00:00:00,2928
+Manhattan,Wall St,('R111'-'R027'),2014-06-30 00:00:00,9140
+Manhattan,Wall St,('R111'-'R027'),2014-07-01 00:00:00,9475
+Manhattan,Wall St,('R111'-'R027'),2014-07-02 00:00:00,9222
+Manhattan,Wall St,('R111'-'R027'),2014-07-03 00:00:00,7703
+Manhattan,Wall St,('R111'-'R027'),2014-07-04 00:00:00,5700
+Manhattan,Wall St,('R111'-'R027'),2014-07-05 00:00:00,3000
+Manhattan,Wall St,('R111'-'R027'),2014-07-06 00:00:00,2430
+Manhattan,Wall St,('R111'-'R027'),2014-07-07 00:00:00,8432
+Manhattan,Wall St,('R111'-'R027'),2014-07-08 00:00:00,9406
+Manhattan,Wall St,('R111'-'R027'),2014-07-09 00:00:00,9331
+Manhattan,Wall St,('R111'-'R027'),2014-07-10 00:00:00,9388
+Manhattan,Wall St,('R111'-'R027'),2014-07-11 00:00:00,8476
+Manhattan,Wall St,('R111'-'R027'),2014-07-12 00:00:00,3695
+Manhattan,Wall St,('R111'-'R027'),2014-07-13 00:00:00,2861
+Manhattan,Wall St,('R111'-'R027'),2014-07-14 00:00:00,9020
+Manhattan,Wall St,('R111'-'R027'),2014-07-15 00:00:00,9505
+Manhattan,Wall St,('R111'-'R027'),2014-07-16 00:00:00,9391
+Manhattan,Wall St,('R111'-'R027'),2014-07-17 00:00:00,9650
+Manhattan,Wall St,('R111'-'R027'),2014-07-18 00:00:00,8624
+Manhattan,Wall St,('R111'-'R027'),2014-07-19 00:00:00,3494
+Manhattan,Wall St,('R111'-'R027'),2014-07-20 00:00:00,2892
+Manhattan,Wall St,('R111'-'R027'),2014-07-21 00:00:00,8863
+Manhattan,Wall St,('R111'-'R027'),2014-07-22 00:00:00,9363
+Manhattan,Wall St,('R111'-'R027'),2014-07-23 00:00:00,9579
+Manhattan,Wall St,('R111'-'R027'),2014-07-24 00:00:00,9327
+Manhattan,Wall St,('R111'-'R027'),2014-07-25 00:00:00,8333
+Manhattan,Wall St,('R111'-'R027'),2014-07-26 00:00:00,3520
+Manhattan,Wall St,('R111'-'R027'),2014-07-27 00:00:00,2901
+Manhattan,Wall St,('R111'-'R027'),2014-07-28 00:00:00,8961
+Manhattan,Wall St,('R111'-'R027'),2014-07-29 00:00:00,9260
+Manhattan,Wall St,('R111'-'R027'),2014-07-30 00:00:00,9214
+Manhattan,Wall St,('R111'-'R027'),2014-07-31 00:00:00,9227
+Manhattan,Wall St,('R111'-'R027'),2014-08-01 00:00:00,8376
+Manhattan,Wall St,('R111'-'R027'),2014-08-02 00:00:00,3307
+Manhattan,Wall St,('R111'-'R027'),2014-08-03 00:00:00,2689
+Manhattan,Wall St,('R111'-'R027'),2014-08-04 00:00:00,8675
+Manhattan,Wall St,('R111'-'R027'),2014-08-05 00:00:00,9053
+Manhattan,Wall St,('R111'-'R027'),2014-08-06 00:00:00,9091
+Manhattan,Wall St,('R111'-'R027'),2014-08-07 00:00:00,8999
+Manhattan,Wall St,('R111'-'R027'),2014-08-08 00:00:00,8069
+Manhattan,Wall St,('R111'-'R027'),2014-08-09 00:00:00,3403
+Manhattan,Wall St,('R111'-'R027'),2014-08-10 00:00:00,2940
+Manhattan,Wall St,('R111'-'R027'),2014-08-11 00:00:00,8815
+Manhattan,Wall St,('R111'-'R027'),2014-08-12 00:00:00,8989
+Manhattan,Wall St,('R111'-'R027'),2014-08-13 00:00:00,8683
+Manhattan,Wall St,('R111'-'R027'),2014-08-14 00:00:00,8950
+Manhattan,Wall St,('R111'-'R027'),2014-08-15 00:00:00,8091
+Manhattan,Wall St,('R111'-'R027'),2014-08-16 00:00:00,3417
+Manhattan,Wall St,('R111'-'R027'),2014-08-17 00:00:00,2658
+Manhattan,Wall St,('R111'-'R027'),2014-08-18 00:00:00,8225
+Manhattan,Wall St,('R111'-'R027'),2014-08-19 00:00:00,8731
+Manhattan,Wall St,('R111'-'R027'),2014-08-20 00:00:00,8638
+Manhattan,Wall St,('R111'-'R027'),2014-08-21 00:00:00,9132
+Manhattan,Wall St,('R111'-'R027'),2014-08-22 00:00:00,7834
+Manhattan,Wall St,('R111'-'R027'),2014-08-23 00:00:00,3478
+Manhattan,Wall St,('R111'-'R027'),2014-08-24 00:00:00,3032
+Manhattan,Wall St,('R111'-'R027'),2014-08-25 00:00:00,8449
+Manhattan,Wall St,('R111'-'R027'),2014-08-26 00:00:00,8762
+Manhattan,Wall St,('R111'-'R027'),2014-08-27 00:00:00,8742
+Manhattan,Wall St,('R111'-'R027'),2014-08-28 00:00:00,8358
+Manhattan,Wall St,('R111'-'R027'),2014-08-29 00:00:00,6567
+Manhattan,Wall St,('R112'-'R027'),2014-05-24 00:00:00,2
+Manhattan,Wall St,('R112'-'R027'),2014-05-25 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-05-26 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-05-27 00:00:00,4091
+Manhattan,Wall St,('R112'-'R027'),2014-05-28 00:00:00,4427
+Manhattan,Wall St,('R112'-'R027'),2014-05-29 00:00:00,4276
+Manhattan,Wall St,('R112'-'R027'),2014-05-30 00:00:00,3879
+Manhattan,Wall St,('R112'-'R027'),2014-05-31 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-01 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-02 00:00:00,4227
+Manhattan,Wall St,('R112'-'R027'),2014-06-03 00:00:00,5012
+Manhattan,Wall St,('R112'-'R027'),2014-06-04 00:00:00,4356
+Manhattan,Wall St,('R112'-'R027'),2014-06-05 00:00:00,4275
+Manhattan,Wall St,('R112'-'R027'),2014-06-06 00:00:00,3800
+Manhattan,Wall St,('R112'-'R027'),2014-06-07 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-08 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-09 00:00:00,4470
+Manhattan,Wall St,('R112'-'R027'),2014-06-10 00:00:00,4560
+Manhattan,Wall St,('R112'-'R027'),2014-06-11 00:00:00,4431
+Manhattan,Wall St,('R112'-'R027'),2014-06-12 00:00:00,4402
+Manhattan,Wall St,('R112'-'R027'),2014-06-13 00:00:00,4334
+Manhattan,Wall St,('R112'-'R027'),2014-06-14 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-15 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-16 00:00:00,4219
+Manhattan,Wall St,('R112'-'R027'),2014-06-17 00:00:00,4419
+Manhattan,Wall St,('R112'-'R027'),2014-06-18 00:00:00,4366
+Manhattan,Wall St,('R112'-'R027'),2014-06-19 00:00:00,4318
+Manhattan,Wall St,('R112'-'R027'),2014-06-20 00:00:00,3713
+Manhattan,Wall St,('R112'-'R027'),2014-06-21 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-22 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-23 00:00:00,4052
+Manhattan,Wall St,('R112'-'R027'),2014-06-24 00:00:00,4371
+Manhattan,Wall St,('R112'-'R027'),2014-06-25 00:00:00,4291
+Manhattan,Wall St,('R112'-'R027'),2014-06-26 00:00:00,4308
+Manhattan,Wall St,('R112'-'R027'),2014-06-27 00:00:00,3702
+Manhattan,Wall St,('R112'-'R027'),2014-06-28 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-29 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-06-30 00:00:00,4042
+Manhattan,Wall St,('R112'-'R027'),2014-07-01 00:00:00,4330
+Manhattan,Wall St,('R112'-'R027'),2014-07-02 00:00:00,4565
+Manhattan,Wall St,('R112'-'R027'),2014-07-03 00:00:00,3430
+Manhattan,Wall St,('R112'-'R027'),2014-07-04 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-05 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-06 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-07 00:00:00,3900
+Manhattan,Wall St,('R112'-'R027'),2014-07-08 00:00:00,4293
+Manhattan,Wall St,('R112'-'R027'),2014-07-09 00:00:00,4313
+Manhattan,Wall St,('R112'-'R027'),2014-07-10 00:00:00,4305
+Manhattan,Wall St,('R112'-'R027'),2014-07-11 00:00:00,3750
+Manhattan,Wall St,('R112'-'R027'),2014-07-12 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-13 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-14 00:00:00,4369
+Manhattan,Wall St,('R112'-'R027'),2014-07-15 00:00:00,4841
+Manhattan,Wall St,('R112'-'R027'),2014-07-16 00:00:00,4305
+Manhattan,Wall St,('R112'-'R027'),2014-07-17 00:00:00,4344
+Manhattan,Wall St,('R112'-'R027'),2014-07-18 00:00:00,3699
+Manhattan,Wall St,('R112'-'R027'),2014-07-19 00:00:00,1
+Manhattan,Wall St,('R112'-'R027'),2014-07-20 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-21 00:00:00,4014
+Manhattan,Wall St,('R112'-'R027'),2014-07-22 00:00:00,4176
+Manhattan,Wall St,('R112'-'R027'),2014-07-23 00:00:00,4284
+Manhattan,Wall St,('R112'-'R027'),2014-07-24 00:00:00,4159
+Manhattan,Wall St,('R112'-'R027'),2014-07-25 00:00:00,3482
+Manhattan,Wall St,('R112'-'R027'),2014-07-26 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-27 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-07-28 00:00:00,3927
+Manhattan,Wall St,('R112'-'R027'),2014-07-29 00:00:00,4189
+Manhattan,Wall St,('R112'-'R027'),2014-07-30 00:00:00,4176
+Manhattan,Wall St,('R112'-'R027'),2014-07-31 00:00:00,4024
+Manhattan,Wall St,('R112'-'R027'),2014-08-01 00:00:00,3602
+Manhattan,Wall St,('R112'-'R027'),2014-08-02 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-03 00:00:00,7
+Manhattan,Wall St,('R112'-'R027'),2014-08-04 00:00:00,4007
+Manhattan,Wall St,('R112'-'R027'),2014-08-05 00:00:00,4099
+Manhattan,Wall St,('R112'-'R027'),2014-08-06 00:00:00,4109
+Manhattan,Wall St,('R112'-'R027'),2014-08-07 00:00:00,4089
+Manhattan,Wall St,('R112'-'R027'),2014-08-08 00:00:00,3419
+Manhattan,Wall St,('R112'-'R027'),2014-08-09 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-10 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-11 00:00:00,3876
+Manhattan,Wall St,('R112'-'R027'),2014-08-12 00:00:00,4511
+Manhattan,Wall St,('R112'-'R027'),2014-08-13 00:00:00,3924
+Manhattan,Wall St,('R112'-'R027'),2014-08-14 00:00:00,3948
+Manhattan,Wall St,('R112'-'R027'),2014-08-15 00:00:00,3540
+Manhattan,Wall St,('R112'-'R027'),2014-08-16 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-17 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-18 00:00:00,3657
+Manhattan,Wall St,('R112'-'R027'),2014-08-19 00:00:00,3890
+Manhattan,Wall St,('R112'-'R027'),2014-08-20 00:00:00,3842
+Manhattan,Wall St,('R112'-'R027'),2014-08-21 00:00:00,3808
+Manhattan,Wall St,('R112'-'R027'),2014-08-22 00:00:00,3266
+Manhattan,Wall St,('R112'-'R027'),2014-08-23 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-24 00:00:00,0
+Manhattan,Wall St,('R112'-'R027'),2014-08-25 00:00:00,3687
+Manhattan,Wall St,('R112'-'R027'),2014-08-26 00:00:00,3863
+Manhattan,Wall St,('R112'-'R027'),2014-08-27 00:00:00,3735
+Manhattan,Wall St,('R112'-'R027'),2014-08-28 00:00:00,3637
+Manhattan,Wall St,('R112'-'R027'),2014-08-29 00:00:00,2671
+Manhattan,Wall St,('R112A'-'R027'),2014-05-24 00:00:00,45
+Manhattan,Wall St,('R112A'-'R027'),2014-05-25 00:00:00,1
+Manhattan,Wall St,('R112A'-'R027'),2014-05-26 00:00:00,2
+Manhattan,Wall St,('R112A'-'R027'),2014-05-27 00:00:00,4511
+Manhattan,Wall St,('R112A'-'R027'),2014-05-28 00:00:00,4949
+Manhattan,Wall St,('R112A'-'R027'),2014-05-29 00:00:00,4695
+Manhattan,Wall St,('R112A'-'R027'),2014-05-30 00:00:00,4265
+Manhattan,Wall St,('R112A'-'R027'),2014-05-31 00:00:00,56
+Manhattan,Wall St,('R112A'-'R027'),2014-06-01 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-06-02 00:00:00,4609
+Manhattan,Wall St,('R112A'-'R027'),2014-06-03 00:00:00,5290
+Manhattan,Wall St,('R112A'-'R027'),2014-06-04 00:00:00,4929
+Manhattan,Wall St,('R112A'-'R027'),2014-06-05 00:00:00,4790
+Manhattan,Wall St,('R112A'-'R027'),2014-06-06 00:00:00,4397
+Manhattan,Wall St,('R112A'-'R027'),2014-06-07 00:00:00,62
+Manhattan,Wall St,('R112A'-'R027'),2014-06-08 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-06-09 00:00:00,4681
+Manhattan,Wall St,('R112A'-'R027'),2014-06-10 00:00:00,5156
+Manhattan,Wall St,('R112A'-'R027'),2014-06-11 00:00:00,4941
+Manhattan,Wall St,('R112A'-'R027'),2014-06-12 00:00:00,4851
+Manhattan,Wall St,('R112A'-'R027'),2014-06-13 00:00:00,4597
+Manhattan,Wall St,('R112A'-'R027'),2014-06-14 00:00:00,46
+Manhattan,Wall St,('R112A'-'R027'),2014-06-15 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-06-16 00:00:00,4638
+Manhattan,Wall St,('R112A'-'R027'),2014-06-17 00:00:00,4911
+Manhattan,Wall St,('R112A'-'R027'),2014-06-18 00:00:00,4850
+Manhattan,Wall St,('R112A'-'R027'),2014-06-19 00:00:00,5009
+Manhattan,Wall St,('R112A'-'R027'),2014-06-20 00:00:00,4228
+Manhattan,Wall St,('R112A'-'R027'),2014-06-21 00:00:00,68
+Manhattan,Wall St,('R112A'-'R027'),2014-06-22 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-06-23 00:00:00,4483
+Manhattan,Wall St,('R112A'-'R027'),2014-06-24 00:00:00,4919
+Manhattan,Wall St,('R112A'-'R027'),2014-06-25 00:00:00,4860
+Manhattan,Wall St,('R112A'-'R027'),2014-06-26 00:00:00,4811
+Manhattan,Wall St,('R112A'-'R027'),2014-06-27 00:00:00,4088
+Manhattan,Wall St,('R112A'-'R027'),2014-06-28 00:00:00,46
+Manhattan,Wall St,('R112A'-'R027'),2014-06-29 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-06-30 00:00:00,4473
+Manhattan,Wall St,('R112A'-'R027'),2014-07-01 00:00:00,4746
+Manhattan,Wall St,('R112A'-'R027'),2014-07-02 00:00:00,4864
+Manhattan,Wall St,('R112A'-'R027'),2014-07-03 00:00:00,3939
+Manhattan,Wall St,('R112A'-'R027'),2014-07-04 00:00:00,24
+Manhattan,Wall St,('R112A'-'R027'),2014-07-05 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-07-06 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-07-07 00:00:00,4147
+Manhattan,Wall St,('R112A'-'R027'),2014-07-08 00:00:00,4706
+Manhattan,Wall St,('R112A'-'R027'),2014-07-09 00:00:00,4830
+Manhattan,Wall St,('R112A'-'R027'),2014-07-10 00:00:00,4790
+Manhattan,Wall St,('R112A'-'R027'),2014-07-11 00:00:00,4261
+Manhattan,Wall St,('R112A'-'R027'),2014-07-12 00:00:00,56
+Manhattan,Wall St,('R112A'-'R027'),2014-07-13 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-07-14 00:00:00,4720
+Manhattan,Wall St,('R112A'-'R027'),2014-07-15 00:00:00,5140
+Manhattan,Wall St,('R112A'-'R027'),2014-07-16 00:00:00,4924
+Manhattan,Wall St,('R112A'-'R027'),2014-07-17 00:00:00,4746
+Manhattan,Wall St,('R112A'-'R027'),2014-07-18 00:00:00,4115
+Manhattan,Wall St,('R112A'-'R027'),2014-07-19 00:00:00,66
+Manhattan,Wall St,('R112A'-'R027'),2014-07-20 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-07-21 00:00:00,4429
+Manhattan,Wall St,('R112A'-'R027'),2014-07-22 00:00:00,4696
+Manhattan,Wall St,('R112A'-'R027'),2014-07-23 00:00:00,4755
+Manhattan,Wall St,('R112A'-'R027'),2014-07-24 00:00:00,4779
+Manhattan,Wall St,('R112A'-'R027'),2014-07-25 00:00:00,4061
+Manhattan,Wall St,('R112A'-'R027'),2014-07-26 00:00:00,60
+Manhattan,Wall St,('R112A'-'R027'),2014-07-27 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-07-28 00:00:00,4314
+Manhattan,Wall St,('R112A'-'R027'),2014-07-29 00:00:00,4752
+Manhattan,Wall St,('R112A'-'R027'),2014-07-30 00:00:00,4439
+Manhattan,Wall St,('R112A'-'R027'),2014-07-31 00:00:00,4570
+Manhattan,Wall St,('R112A'-'R027'),2014-08-01 00:00:00,3927
+Manhattan,Wall St,('R112A'-'R027'),2014-08-02 00:00:00,50
+Manhattan,Wall St,('R112A'-'R027'),2014-08-03 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-08-04 00:00:00,4163
+Manhattan,Wall St,('R112A'-'R027'),2014-08-05 00:00:00,4489
+Manhattan,Wall St,('R112A'-'R027'),2014-08-06 00:00:00,4585
+Manhattan,Wall St,('R112A'-'R027'),2014-08-07 00:00:00,4434
+Manhattan,Wall St,('R112A'-'R027'),2014-08-08 00:00:00,3787
+Manhattan,Wall St,('R112A'-'R027'),2014-08-09 00:00:00,40
+Manhattan,Wall St,('R112A'-'R027'),2014-08-10 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-08-11 00:00:00,4126
+Manhattan,Wall St,('R112A'-'R027'),2014-08-12 00:00:00,4647
+Manhattan,Wall St,('R112A'-'R027'),2014-08-13 00:00:00,4368
+Manhattan,Wall St,('R112A'-'R027'),2014-08-14 00:00:00,4418
+Manhattan,Wall St,('R112A'-'R027'),2014-08-15 00:00:00,3679
+Manhattan,Wall St,('R112A'-'R027'),2014-08-16 00:00:00,54
+Manhattan,Wall St,('R112A'-'R027'),2014-08-17 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-08-18 00:00:00,4079
+Manhattan,Wall St,('R112A'-'R027'),2014-08-19 00:00:00,4269
+Manhattan,Wall St,('R112A'-'R027'),2014-08-20 00:00:00,4248
+Manhattan,Wall St,('R112A'-'R027'),2014-08-21 00:00:00,4245
+Manhattan,Wall St,('R112A'-'R027'),2014-08-22 00:00:00,3774
+Manhattan,Wall St,('R112A'-'R027'),2014-08-23 00:00:00,56
+Manhattan,Wall St,('R112A'-'R027'),2014-08-24 00:00:00,0
+Manhattan,Wall St,('R112A'-'R027'),2014-08-25 00:00:00,3977
+Manhattan,Wall St,('R112A'-'R027'),2014-08-26 00:00:00,4181
+Manhattan,Wall St,('R112A'-'R027'),2014-08-27 00:00:00,4152
+Manhattan,Wall St,('R112A'-'R027'),2014-08-28 00:00:00,4026
+Manhattan,Wall St,('R112A'-'R027'),2014-08-29 00:00:00,3006
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-24 00:00:00,6254
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-25 00:00:00,5808
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-26 00:00:00,5266
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-27 00:00:00,16696
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-28 00:00:00,18476
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-29 00:00:00,18449
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-30 00:00:00,17739
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-05-31 00:00:00,7469
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-01 00:00:00,6322
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-02 00:00:00,17354
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-03 00:00:00,19032
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-04 00:00:00,19535
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-05 00:00:00,19323
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-06 00:00:00,18130
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-07 00:00:00,7573
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-08 00:00:00,6536
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-09 00:00:00,17014
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-10 00:00:00,18299
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-11 00:00:00,17918
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-12 00:00:00,18717
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-13 00:00:00,17609
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-14 00:00:00,7299
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-15 00:00:00,5369
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-16 00:00:00,16772
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-17 00:00:00,18760
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-18 00:00:00,19087
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-19 00:00:00,19339
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-20 00:00:00,18012
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-21 00:00:00,8203
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-22 00:00:00,6094
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-23 00:00:00,17371
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-24 00:00:00,18566
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-25 00:00:00,19165
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-26 00:00:00,18929
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-27 00:00:00,18954
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-28 00:00:00,8446
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-29 00:00:00,6950
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-06-30 00:00:00,17250
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-01 00:00:00,18382
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-02 00:00:00,18039
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-03 00:00:00,15364
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-04 00:00:00,5536
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-05 00:00:00,6613
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-06 00:00:00,5531
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-07 00:00:00,15906
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-08 00:00:00,17563
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-09 00:00:00,18145
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-10 00:00:00,18540
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-11 00:00:00,17123
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-12 00:00:00,7408
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-13 00:00:00,5416
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-14 00:00:00,17063
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-15 00:00:00,17945
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-16 00:00:00,18738
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-17 00:00:00,19117
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-18 00:00:00,17853
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-19 00:00:00,8023
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-20 00:00:00,6627
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-21 00:00:00,17554
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-22 00:00:00,18944
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-23 00:00:00,19519
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-24 00:00:00,19135
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-25 00:00:00,18119
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-26 00:00:00,8543
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-27 00:00:00,6797
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-28 00:00:00,16697
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-29 00:00:00,18421
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-30 00:00:00,19121
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-07-31 00:00:00,18252
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-01 00:00:00,17313
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-02 00:00:00,6953
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-03 00:00:00,5879
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-04 00:00:00,17162
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-05 00:00:00,18339
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-06 00:00:00,18793
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-07 00:00:00,18949
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-08 00:00:00,17640
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-09 00:00:00,8211
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-10 00:00:00,6195
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-11 00:00:00,16361
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-12 00:00:00,18224
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-13 00:00:00,18082
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-14 00:00:00,18843
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-15 00:00:00,18488
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-16 00:00:00,6730
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-17 00:00:00,5870
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-18 00:00:00,16301
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-19 00:00:00,17559
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-20 00:00:00,17464
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-21 00:00:00,17528
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-22 00:00:00,16412
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-23 00:00:00,7477
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-24 00:00:00,5927
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-25 00:00:00,15491
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-26 00:00:00,16538
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-27 00:00:00,16673
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-28 00:00:00,16747
+Manhattan,42 St-Bryant Pk,('N502'-'R021'),2014-08-29 00:00:00,12191
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-24 00:00:00,3137
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-25 00:00:00,3411
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-26 00:00:00,3585
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-27 00:00:00,7563
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-28 00:00:00,7094
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-29 00:00:00,7947
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-30 00:00:00,8092
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-05-31 00:00:00,4242
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-01 00:00:00,3600
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-02 00:00:00,8338
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-03 00:00:00,7468
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-04 00:00:00,9618
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-05 00:00:00,8403
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-06 00:00:00,8504
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-07 00:00:00,4590
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-08 00:00:00,3694
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-09 00:00:00,6892
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-10 00:00:00,8097
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-11 00:00:00,8478
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-12 00:00:00,7837
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-13 00:00:00,6554
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-14 00:00:00,3996
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-15 00:00:00,3342
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-16 00:00:00,8617
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-17 00:00:00,8541
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-18 00:00:00,8712
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-19 00:00:00,8074
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-20 00:00:00,8320
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-21 00:00:00,4869
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-22 00:00:00,3574
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-23 00:00:00,8392
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-24 00:00:00,8524
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-25 00:00:00,8392
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-26 00:00:00,8342
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-27 00:00:00,8661
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-28 00:00:00,4736
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-29 00:00:00,3927
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-06-30 00:00:00,8319
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-01 00:00:00,8441
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-02 00:00:00,6992
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-03 00:00:00,6831
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-04 00:00:00,2773
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-05 00:00:00,3462
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-06 00:00:00,3305
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-07 00:00:00,8293
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-08 00:00:00,8125
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-09 00:00:00,8201
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-10 00:00:00,8995
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-11 00:00:00,8039
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-12 00:00:00,3916
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-13 00:00:00,3009
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-14 00:00:00,6938
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-15 00:00:00,6525
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-16 00:00:00,8404
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-17 00:00:00,9170
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-18 00:00:00,8546
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-19 00:00:00,4566
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-20 00:00:00,3696
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-21 00:00:00,8544
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-22 00:00:00,8866
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-23 00:00:00,8295
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-24 00:00:00,8915
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-25 00:00:00,8385
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-26 00:00:00,4651
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-27 00:00:00,3781
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-28 00:00:00,8195
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-29 00:00:00,8542
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-30 00:00:00,8680
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-07-31 00:00:00,8567
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-01 00:00:00,7595
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-02 00:00:00,3866
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-03 00:00:00,3229
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-04 00:00:00,8505
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-05 00:00:00,8232
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-06 00:00:00,8552
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-07 00:00:00,8803
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-08 00:00:00,8170
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-09 00:00:00,4134
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-10 00:00:00,4155
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-11 00:00:00,8323
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-12 00:00:00,7194
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-13 00:00:00,7956
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-14 00:00:00,8631
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-15 00:00:00,7820
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-16 00:00:00,4308
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-17 00:00:00,3117
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-18 00:00:00,8336
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-19 00:00:00,8093
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-20 00:00:00,8051
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-21 00:00:00,7985
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-22 00:00:00,7168
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-23 00:00:00,3923
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-24 00:00:00,3374
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-25 00:00:00,7456
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-26 00:00:00,8034
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-27 00:00:00,8007
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-28 00:00:00,7937
+Manhattan,42 St-Bryant Pk,('N503'-'R021'),2014-08-29 00:00:00,6266
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-24 00:00:00,4437
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-25 00:00:00,3444
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-26 00:00:00,3809
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-27 00:00:00,17258
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-28 00:00:00,18306
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-29 00:00:00,18215
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-30 00:00:00,17172
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-05-31 00:00:00,5236
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-01 00:00:00,4045
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-02 00:00:00,17698
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-03 00:00:00,18759
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-04 00:00:00,19053
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-05 00:00:00,18173
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-06 00:00:00,17380
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-07 00:00:00,5371
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-08 00:00:00,3969
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-09 00:00:00,17301
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-10 00:00:00,18620
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-11 00:00:00,18126
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-12 00:00:00,18115
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-13 00:00:00,16720
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-14 00:00:00,5059
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-15 00:00:00,3517
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-16 00:00:00,18085
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-17 00:00:00,18903
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-18 00:00:00,18678
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-19 00:00:00,18720
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-20 00:00:00,16894
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-21 00:00:00,5751
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-22 00:00:00,4050
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-23 00:00:00,18002
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-24 00:00:00,18315
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-25 00:00:00,18842
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-26 00:00:00,18388
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-27 00:00:00,16778
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-28 00:00:00,5643
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-29 00:00:00,4407
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-06-30 00:00:00,18026
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-01 00:00:00,18320
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-02 00:00:00,18221
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-03 00:00:00,15041
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-04 00:00:00,3354
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-05 00:00:00,3853
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-06 00:00:00,3230
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-07 00:00:00,17451
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-08 00:00:00,18132
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-09 00:00:00,17942
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-10 00:00:00,18516
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-11 00:00:00,16512
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-12 00:00:00,4932
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-13 00:00:00,3447
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-14 00:00:00,17391
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-15 00:00:00,18126
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-16 00:00:00,18200
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-17 00:00:00,18437
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-18 00:00:00,16861
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-19 00:00:00,5188
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-20 00:00:00,3812
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-21 00:00:00,18005
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-22 00:00:00,18820
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-23 00:00:00,19084
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-24 00:00:00,18927
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-25 00:00:00,16898
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-26 00:00:00,5447
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-27 00:00:00,3881
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-28 00:00:00,17597
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-29 00:00:00,18176
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-30 00:00:00,18500
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-07-31 00:00:00,18047
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-01 00:00:00,16100
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-02 00:00:00,4766
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-03 00:00:00,3357
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-04 00:00:00,17990
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-05 00:00:00,17774
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-06 00:00:00,18327
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-07 00:00:00,18715
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-08 00:00:00,16314
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-09 00:00:00,5213
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-10 00:00:00,4686
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-11 00:00:00,17642
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-12 00:00:00,18095
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-13 00:00:00,17964
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-14 00:00:00,18477
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-15 00:00:00,15895
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-16 00:00:00,5074
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-17 00:00:00,3551
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-18 00:00:00,18025
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-19 00:00:00,18003
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-20 00:00:00,18000
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-21 00:00:00,17921
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-22 00:00:00,16007
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-23 00:00:00,5269
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-24 00:00:00,3959
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-25 00:00:00,17107
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-26 00:00:00,17629
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-27 00:00:00,17849
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-28 00:00:00,17166
+Manhattan,42 St-Bryant Pk,('N504'-'R021'),2014-08-29 00:00:00,12933
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-24 00:00:00,2
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-25 00:00:00,1
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-26 00:00:00,0
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-27 00:00:00,4030
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-28 00:00:00,4076
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-29 00:00:00,4207
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-30 00:00:00,4347
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-05-31 00:00:00,1
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-01 00:00:00,0
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-02 00:00:00,4232
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-03 00:00:00,3983
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-04 00:00:00,4072
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-05 00:00:00,3552
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-06 00:00:00,4197
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-07 00:00:00,2202
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-08 00:00:00,1740
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-09 00:00:00,3798
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-10 00:00:00,4321
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-11 00:00:00,4079
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-12 00:00:00,4156
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-13 00:00:00,4095
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-14 00:00:00,2372
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-15 00:00:00,1778
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-16 00:00:00,4024
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-17 00:00:00,3967
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-18 00:00:00,4050
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-19 00:00:00,3929
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-20 00:00:00,4009
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-21 00:00:00,2254
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-22 00:00:00,1745
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-23 00:00:00,3714
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-24 00:00:00,3796
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-25 00:00:00,3707
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-26 00:00:00,3977
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-27 00:00:00,3633
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-28 00:00:00,2324
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-29 00:00:00,1924
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-06-30 00:00:00,3364
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-01 00:00:00,3613
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-02 00:00:00,3537
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-03 00:00:00,3511
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-04 00:00:00,1950
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-05 00:00:00,2114
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-06 00:00:00,1696
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-07 00:00:00,3609
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-08 00:00:00,3699
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-09 00:00:00,3787
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-10 00:00:00,3788
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-11 00:00:00,3641
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-12 00:00:00,2275
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-13 00:00:00,1788
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-14 00:00:00,3576
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-15 00:00:00,3594
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-16 00:00:00,3789
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-17 00:00:00,3869
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-18 00:00:00,3699
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-19 00:00:00,2357
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-20 00:00:00,1844
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-21 00:00:00,3732
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-22 00:00:00,3809
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-23 00:00:00,3800
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-24 00:00:00,3810
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-25 00:00:00,3690
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-26 00:00:00,2335
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-27 00:00:00,1900
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-28 00:00:00,3519
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-29 00:00:00,3656
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-30 00:00:00,3835
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-07-31 00:00:00,3826
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-01 00:00:00,3769
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-02 00:00:00,2368
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-03 00:00:00,1741
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-04 00:00:00,3667
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-05 00:00:00,3414
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-06 00:00:00,3751
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-07 00:00:00,3633
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-08 00:00:00,3608
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-09 00:00:00,2365
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-10 00:00:00,1958
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-11 00:00:00,3218
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-12 00:00:00,3491
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-13 00:00:00,3562
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-14 00:00:00,3661
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-15 00:00:00,3496
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-16 00:00:00,2404
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-17 00:00:00,1922
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-18 00:00:00,3008
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-19 00:00:00,3475
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-20 00:00:00,3507
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-21 00:00:00,3535
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-22 00:00:00,3638
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-23 00:00:00,2439
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-24 00:00:00,1939
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-25 00:00:00,3276
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-26 00:00:00,3394
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-27 00:00:00,3476
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-28 00:00:00,3558
+Manhattan,148 St-Lenox,('R309'-'R345'),2014-08-29 00:00:00,3256
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-24 00:00:00,5460
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-25 00:00:00,4831
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-26 00:00:00,5213
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-27 00:00:00,7631
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-28 00:00:00,7522
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-29 00:00:00,7638
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-30 00:00:00,7887
+Manhattan,Dyckman St,('R186'-'R036'),2014-05-31 00:00:00,0
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-01 00:00:00,0
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-02 00:00:00,6978
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-03 00:00:00,7289
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-04 00:00:00,7473
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-05 00:00:00,6618
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-06 00:00:00,7755
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-07 00:00:00,5466
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-08 00:00:00,4648
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-09 00:00:00,6925
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-10 00:00:00,7527
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-11 00:00:00,7278
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-12 00:00:00,7323
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-13 00:00:00,7353
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-14 00:00:00,5737
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-15 00:00:00,4610
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-16 00:00:00,7529
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-17 00:00:00,7406
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-18 00:00:00,7530
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-19 00:00:00,9061
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-20 00:00:00,7731
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-21 00:00:00,5658
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-22 00:00:00,4592
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-23 00:00:00,7343
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-24 00:00:00,7575
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-25 00:00:00,7236
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-26 00:00:00,7529
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-27 00:00:00,7266
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-28 00:00:00,8095
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-29 00:00:00,7215
+Manhattan,Dyckman St,('R186'-'R036'),2014-06-30 00:00:00,6900
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-01 00:00:00,6974
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-02 00:00:00,6323
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-03 00:00:00,4669
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-04 00:00:00,4768
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-05 00:00:00,7460
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-06 00:00:00,6406
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-07 00:00:00,7048
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-08 00:00:00,7001
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-09 00:00:00,7133
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-10 00:00:00,7222
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-11 00:00:00,7065
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-12 00:00:00,8113
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-13 00:00:00,6514
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-14 00:00:00,6602
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-15 00:00:00,6648
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-16 00:00:00,6930
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-17 00:00:00,7233
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-18 00:00:00,7123
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-19 00:00:00,7929
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-20 00:00:00,6708
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-21 00:00:00,7020
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-22 00:00:00,6367
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-23 00:00:00,6783
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-24 00:00:00,6964
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-25 00:00:00,7089
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-26 00:00:00,6315
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-27 00:00:00,4868
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-28 00:00:00,6822
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-29 00:00:00,7248
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-30 00:00:00,7181
+Manhattan,Dyckman St,('R186'-'R036'),2014-07-31 00:00:00,7093
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-01 00:00:00,7014
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-02 00:00:00,7413
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-03 00:00:00,6512
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-04 00:00:00,6824
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-05 00:00:00,6924
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-06 00:00:00,6487
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-07 00:00:00,6958
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-08 00:00:00,6933
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-09 00:00:00,5998
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-10 00:00:00,5549
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-11 00:00:00,6834
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-12 00:00:00,6377
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-13 00:00:00,6427
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-14 00:00:00,6598
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-15 00:00:00,6551
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-16 00:00:00,0
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-17 00:00:00,0
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-18 00:00:00,5916
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-19 00:00:00,6417
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-20 00:00:00,6412
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-21 00:00:00,6401
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-22 00:00:00,6431
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-23 00:00:00,5166
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-24 00:00:00,4479
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-25 00:00:00,6158
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-26 00:00:00,6404
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-27 00:00:00,6379
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-28 00:00:00,6600
+Manhattan,Dyckman St,('R186'-'R036'),2014-08-29 00:00:00,5912
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-24 00:00:00,10376
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-25 00:00:00,9205
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-26 00:00:00,8715
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-27 00:00:00,17569
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-28 00:00:00,17812
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-29 00:00:00,18064
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-30 00:00:00,18371
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-05-31 00:00:00,11799
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-01 00:00:00,8769
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-02 00:00:00,17581
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-03 00:00:00,17718
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-04 00:00:00,18023
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-05 00:00:00,17306
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-06 00:00:00,18408
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-07 00:00:00,11622
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-08 00:00:00,9054
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-09 00:00:00,16800
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-10 00:00:00,18148
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-11 00:00:00,18314
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-12 00:00:00,18124
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-13 00:00:00,17666
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-14 00:00:00,11545
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-15 00:00:00,8224
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-16 00:00:00,17356
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-17 00:00:00,17684
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-18 00:00:00,17832
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-19 00:00:00,17815
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-20 00:00:00,18457
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-21 00:00:00,12316
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-22 00:00:00,9226
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-23 00:00:00,19077
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-24 00:00:00,17678
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-25 00:00:00,17607
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-26 00:00:00,17956
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-27 00:00:00,17811
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-28 00:00:00,11337
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-29 00:00:00,9282
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-06-30 00:00:00,17066
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-01 00:00:00,17100
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-02 00:00:00,16504
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-03 00:00:00,16175
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-04 00:00:00,8526
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-05 00:00:00,9244
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-06 00:00:00,7894
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-07 00:00:00,15821
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-08 00:00:00,16386
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-09 00:00:00,16658
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-10 00:00:00,17090
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-11 00:00:00,17252
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-12 00:00:00,11325
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-13 00:00:00,8421
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-14 00:00:00,15837
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-15 00:00:00,16265
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-16 00:00:00,16714
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-17 00:00:00,17074
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-18 00:00:00,16819
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-19 00:00:00,11040
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-20 00:00:00,8570
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-21 00:00:00,15940
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-22 00:00:00,16789
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-23 00:00:00,16642
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-24 00:00:00,16673
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-25 00:00:00,16720
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-26 00:00:00,9937
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-27 00:00:00,7215
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-28 00:00:00,15463
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-29 00:00:00,16583
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-30 00:00:00,16916
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-07-31 00:00:00,16735
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-01 00:00:00,16584
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-02 00:00:00,10423
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-03 00:00:00,7942
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-04 00:00:00,16231
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-05 00:00:00,16757
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-06 00:00:00,16612
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-07 00:00:00,16828
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-08 00:00:00,16501
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-09 00:00:00,11056
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-10 00:00:00,8214
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-11 00:00:00,15722
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-12 00:00:00,16090
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-13 00:00:00,16065
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-14 00:00:00,16546
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-15 00:00:00,16092
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-16 00:00:00,10729
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-17 00:00:00,8053
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-18 00:00:00,15294
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-19 00:00:00,15922
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-20 00:00:00,15886
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-21 00:00:00,15982
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-22 00:00:00,15799
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-23 00:00:00,9534
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-24 00:00:00,7296
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-25 00:00:00,15277
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-26 00:00:00,16026
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-27 00:00:00,16214
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-28 00:00:00,16377
+Queens,Ditmars Bl-31 S,('R515'-'R095'),2014-08-29 00:00:00,14478
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-24 00:00:00,7396
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-25 00:00:00,10659
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-26 00:00:00,9841
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-27 00:00:00,5713
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-28 00:00:00,6622
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-29 00:00:00,2954
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-30 00:00:00,2919
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-05-31 00:00:00,5168
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-01 00:00:00,3438
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-02 00:00:00,2967
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-03 00:00:00,2924
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-04 00:00:00,3186
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-05 00:00:00,3045
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-06 00:00:00,2945
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-07 00:00:00,4839
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-08 00:00:00,4033
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-09 00:00:00,2518
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-10 00:00:00,6353
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-11 00:00:00,6136
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-12 00:00:00,6725
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-13 00:00:00,6711
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-14 00:00:00,10079
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-15 00:00:00,8559
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-16 00:00:00,2992
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-17 00:00:00,3167
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-18 00:00:00,3347
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-19 00:00:00,3341
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-20 00:00:00,2993
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-21 00:00:00,3127
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-22 00:00:00,7832
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-23 00:00:00,3267
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-24 00:00:00,7297
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-25 00:00:00,6593
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-26 00:00:00,3323
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-27 00:00:00,3216
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-28 00:00:00,2553
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-29 00:00:00,2677
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-06-30 00:00:00,3291
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-01 00:00:00,3232
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-02 00:00:00,3243
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-03 00:00:00,2992
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-04 00:00:00,5739
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-05 00:00:00,1819
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-06 00:00:00,2685
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-07 00:00:00,6388
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-08 00:00:00,6755
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-09 00:00:00,6375
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-10 00:00:00,7693
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-11 00:00:00,6909
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-12 00:00:00,4638
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-13 00:00:00,4327
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-14 00:00:00,3089
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-15 00:00:00,2809
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-16 00:00:00,3549
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-17 00:00:00,3300
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-18 00:00:00,3249
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-19 00:00:00,3225
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-20 00:00:00,6265
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-21 00:00:00,3217
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-22 00:00:00,3443
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-23 00:00:00,3684
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-24 00:00:00,3463
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-25 00:00:00,3418
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-26 00:00:00,346
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-27 00:00:00,1368
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-28 00:00:00,7525
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-29 00:00:00,8504
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-30 00:00:00,8994
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-07-31 00:00:00,3711
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-01 00:00:00,7647
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-02 00:00:00,10510
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-03 00:00:00,9809
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-04 00:00:00,8026
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-05 00:00:00,3503
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-06 00:00:00,3762
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-07 00:00:00,3547
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-08 00:00:00,3967
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-09 00:00:00,2877
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-10 00:00:00,2322
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-11 00:00:00,3615
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-12 00:00:00,5865
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-13 00:00:00,6072
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-14 00:00:00,7121
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-15 00:00:00,7020
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-16 00:00:00,7798
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-17 00:00:00,6733
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-18 00:00:00,8186
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-19 00:00:00,6615
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-20 00:00:00,7234
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-21 00:00:00,7683
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-22 00:00:00,8646
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-23 00:00:00,9016
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-24 00:00:00,7228
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-25 00:00:00,23208
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-26 00:00:00,22790
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-27 00:00:00,25144
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-28 00:00:00,25031
+Queens,Mets-Willets Pt,('R532'-'R328'),2014-08-29 00:00:00,17375
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-24 00:00:00,481
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-25 00:00:00,746
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-26 00:00:00,659
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-27 00:00:00,1816
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-28 00:00:00,509
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-29 00:00:00,12
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-30 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-05-31 00:00:00,543
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-01 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-02 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-03 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-04 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-05 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-06 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-07 00:00:00,541
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-08 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-09 00:00:00,20
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-10 00:00:00,2090
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-11 00:00:00,1848
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-12 00:00:00,784
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-13 00:00:00,685
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-14 00:00:00,799
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-15 00:00:00,535
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-16 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-17 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-18 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-19 00:00:00,1
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-20 00:00:00,1
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-21 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-22 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-23 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-24 00:00:00,2909
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-25 00:00:00,2651
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-26 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-27 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-28 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-29 00:00:00,163
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-06-30 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-01 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-02 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-03 00:00:00,12
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-04 00:00:00,3993
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-05 00:00:00,6235
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-06 00:00:00,6554
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-07 00:00:00,1713
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-08 00:00:00,1395
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-09 00:00:00,2430
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-10 00:00:00,3188
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-11 00:00:00,2609
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-12 00:00:00,7040
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-13 00:00:00,2732
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-14 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-15 00:00:00,85
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-16 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-17 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-18 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-19 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-20 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-21 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-22 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-23 00:00:00,2
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-24 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-25 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-26 00:00:00,6979
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-27 00:00:00,3992
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-28 00:00:00,2689
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-29 00:00:00,3531
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-30 00:00:00,361
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-07-31 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-01 00:00:00,4065
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-02 00:00:00,625
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-03 00:00:00,524
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-04 00:00:00,430
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-05 00:00:00,1
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-06 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-07 00:00:00,2
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-08 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-09 00:00:00,2902
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-10 00:00:00,3699
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-11 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-12 00:00:00,1360
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-13 00:00:00,2385
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-14 00:00:00,2583
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-15 00:00:00,2822
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-16 00:00:00,3770
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-17 00:00:00,2465
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-18 00:00:00,448
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-19 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-20 00:00:00,34
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-21 00:00:00,5
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-22 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-23 00:00:00,1304
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-24 00:00:00,0
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-25 00:00:00,4212
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-26 00:00:00,9618
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-27 00:00:00,6019
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-28 00:00:00,8740
+Queens,Mets-Willets Pt,('R532H'-'R328'),2014-08-29 00:00:00,1305
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-24 00:00:00,1280
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-25 00:00:00,1024
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-26 00:00:00,1197
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-27 00:00:00,7117
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-28 00:00:00,7146
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-29 00:00:00,6788
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-30 00:00:00,6632
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-05-31 00:00:00,12
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-01 00:00:00,0
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-02 00:00:00,6860
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-03 00:00:00,7175
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-04 00:00:00,7047
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-05 00:00:00,7107
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-06 00:00:00,6466
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-07 00:00:00,23
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-08 00:00:00,808
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-09 00:00:00,7143
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-10 00:00:00,7365
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-11 00:00:00,7182
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-12 00:00:00,7182
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-13 00:00:00,6480
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-14 00:00:00,1278
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-15 00:00:00,1031
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-16 00:00:00,7171
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-17 00:00:00,7120
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-18 00:00:00,7057
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-19 00:00:00,7039
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-20 00:00:00,6341
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-21 00:00:00,22
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-22 00:00:00,0
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-23 00:00:00,6779
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-24 00:00:00,6917
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-25 00:00:00,6856
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-26 00:00:00,6766
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-27 00:00:00,6204
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-28 00:00:00,16
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-29 00:00:00,909
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-06-30 00:00:00,6840
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-01 00:00:00,6840
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-02 00:00:00,6646
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-03 00:00:00,5896
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-04 00:00:00,675
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-05 00:00:00,1051
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-06 00:00:00,1006
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-07 00:00:00,6712
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-08 00:00:00,6858
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-09 00:00:00,6801
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-10 00:00:00,6831
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-11 00:00:00,6069
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-12 00:00:00,1282
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-13 00:00:00,1017
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-14 00:00:00,6906
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-15 00:00:00,6824
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-16 00:00:00,6967
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-17 00:00:00,6924
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-18 00:00:00,6008
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-19 00:00:00,21
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-20 00:00:00,0
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-21 00:00:00,6747
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-22 00:00:00,7068
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-23 00:00:00,6924
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-24 00:00:00,6839
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-25 00:00:00,6045
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-26 00:00:00,1382
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-27 00:00:00,1012
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-28 00:00:00,6985
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-29 00:00:00,7089
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-30 00:00:00,6461
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-07-31 00:00:00,6944
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-01 00:00:00,6177
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-02 00:00:00,1306
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-03 00:00:00,1055
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-04 00:00:00,6957
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-05 00:00:00,6991
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-06 00:00:00,6887
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-07 00:00:00,6876
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-08 00:00:00,6182
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-09 00:00:00,1334
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-10 00:00:00,1049
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-11 00:00:00,6880
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-12 00:00:00,7114
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-13 00:00:00,6465
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-14 00:00:00,6851
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-15 00:00:00,6091
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-16 00:00:00,1317
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-17 00:00:00,1033
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-18 00:00:00,6753
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-19 00:00:00,6779
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-20 00:00:00,6642
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-21 00:00:00,6573
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-22 00:00:00,5960
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-23 00:00:00,1404
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-24 00:00:00,1085
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-25 00:00:00,6734
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-26 00:00:00,6873
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-27 00:00:00,6595
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-28 00:00:00,6475
+Queens,Hunters Pt Ave,('R507'-'R134'),2014-08-29 00:00:00,5535
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-24 00:00:00,12
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-25 00:00:00,0
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-26 00:00:00,52
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-27 00:00:00,5623
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-28 00:00:00,5677
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-29 00:00:00,5796
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-30 00:00:00,6010
+Queens,Fresh Pond Road,('K025'-'R404'),2014-05-31 00:00:00,2415
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-01 00:00:00,1806
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-02 00:00:00,5787
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-03 00:00:00,5882
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-04 00:00:00,5811
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-05 00:00:00,5543
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-06 00:00:00,5973
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-07 00:00:00,2658
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-08 00:00:00,2014
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-09 00:00:00,5345
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-10 00:00:00,5813
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-11 00:00:00,5899
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-12 00:00:00,5910
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-13 00:00:00,5691
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-14 00:00:00,2613
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-15 00:00:00,1958
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-16 00:00:00,5753
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-17 00:00:00,5797
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-18 00:00:00,5859
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-19 00:00:00,5823
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-20 00:00:00,6008
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-21 00:00:00,2781
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-22 00:00:00,2022
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-23 00:00:00,5673
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-24 00:00:00,5884
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-25 00:00:00,5712
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-26 00:00:00,6013
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-27 00:00:00,5861
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-28 00:00:00,2741
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-29 00:00:00,2142
+Queens,Fresh Pond Road,('K025'-'R404'),2014-06-30 00:00:00,5681
+Queens,Fresh Pond Road,('K025'-'R404'),2014-07-01 00:00:00,5581

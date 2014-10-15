@@ -1,0 +1,75 @@
+body {
+  font-family:"Trebuchet MS", Helvetica, sans-serif;
+  color:#777777;
+}
+
+svg {
+    pointer-events:none;
+}
+
+circle.svg_corners {
+  stroke:red;
+  stroke-width:3px;
+  fill:none;
+}
+
+circle.g_corners {
+  stroke:teal;
+  stroke-width:3px;
+  fill:none;
+}
+
+.axis path, 
+.axis line {
+    fill:none;
+    stroke:#777777;
+}
+
+path, 
+line {
+    fill:none;
+    stroke:#777777;
+}
+
+.bar {
+	fill:blue;
+}
+
+.axis {
+    font-size:12px;
+}
+
+.borough.axis line,
+.borough.axis path {
+    fill:none;
+    stroke:none;
+}
+
+.borough_g rect {
+    stroke-width:2px;
+    fill:none;
+    pointer-events:all;
+}
+
+.Brooklyn rect { stroke:orange; }
+.Manhattan rect { stroke:blue; }
+.Bronx rect { stroke:red; }
+.Queens rect { stroke:green; }
+
+div.challenge div {
+    margin-left:20px;
+    margin-bottom:20px;
+}
+
+circle.scatter {
+    fill:green;
+}
+
+#challenge_3a rect {
+    fill:lavender;
+    stroke:purple;
+    stroke-width:3px;
+    pointer-events:all;
+}
+
+
