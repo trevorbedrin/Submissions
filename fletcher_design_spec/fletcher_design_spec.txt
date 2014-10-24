@@ -1,0 +1,83 @@
+Client: 
+
+My clients are those employees of Kaplan Test Prep who are involved in the planning,
+scheduling, and evaluation of specific student facing session types (referred to as 
+either Flex or Channel sessions) and include members of the Digital Media team, the 
+Graduate Programs Business Unit, and the Executive Leadership.
+
+I hope to provide a simple, easy to use interface that enables these users to better 
+understand the data we collect about these sessions.
+
+
+Central Question: 
+
+Can we distill the main theme(s), for each Flex or Channel session type, of survey 
+feedback comments for that session type? 
+
+
+Question Breakdown:
+
+Is it possible to cluster similar feedback comments for specific session types and 
+derive central themes?
+Is it possible to identify whether a feedback comment is positive or negative first
+and use this information to further refine our themes?
+
+
+Data: 
+	a. Data will be survey responses collected from Flex and Channel Session attendees 
+	from Feb 2013 through October 2014.  This data is stored in our Adobe Connect LMS.
+
+	b. Data is routinely pulled from our Adobe Connect LMS (daily) and imported into a 
+	SQL database maintained by the Kaplan Data Science team.  The process of pulling the
+	data from Adobe Connect involves:
+		i. Obtaining a list of sessions run the previous day from our business systems
+		API
+		ii. For each session run obtain the list of all transactions made in the Adobe 
+		Connect room associated with that session.
+		iii. For each transaction obtain a list of questions and responses made for that
+		transaction.
+		iv. Every question/response pair is stored as one record
+	For this project, the data was exported from the SQL database into a CSV file.
+
+	c. There have been ~72,000 comments submitted during the time frame of Feb 2013 
+	through October 2014.
+
+	d. The data was imported from the CSV file into a Mongo Database collection.
+
+
+Analysis: 
+
+Each comment will be assigned a sentiment polarity score using a Naive Bayes Analyzer
+trained on IMDB movie review data.  Data will be segmented into lists based on polarity
+with a the final data sets being:
+	1) All negative comments
+	2) All positive comments
+	3) All polar comments (neutral comments are not included)
+
+The user will be able to determine which data set is used for clustering.  The data set
+will then have all stop-words removed and be vectorized into a matrix of TF-IDF scores 
+for single words and digrams.  
+
+At this point a DBSCAN clustering algoritm is employed to calculate the clusters.  The 
+centroids of these clusters are used as the main themes.
+
+
+Deliverable: 
+
+The main deliverable is a web application that allows users to select what session type
+they want to cluster as well as the polarity of the data set they want to explore.  Users
+will also have the ability to filter for only comments made after a certain date to 
+reduce both computation time and the inclusion of older, possibly irrelevant comments.
+Finally, some rude controls to calibrate the sensitivity of the algorithm will be 
+provided.
+
+
+Challenges: 
+
+A major challenge is building a sentiment analyzer that is able to accurately categorize
+the feedback comments.  The one used in this project is fairly accurate, but does 
+misclassify many comments.
+Another major challenge comes in the form of limitations to the size of the data set 
+we are able to cluster with DBSCAN in the implementation I need to use.  Being able to 
+limit the data to a more recent date range as well as to a specific sentiment polarity 
+are two methods used to overcome this limitation. 
